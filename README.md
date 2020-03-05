@@ -1,4 +1,4 @@
-[Home] [Research] [Teaching] [General Audience] [Contact]
+# [Home] [Research] [Teaching] [General Audience] [Contact]
 
 # PhD Candidate
 
