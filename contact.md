@@ -1,3 +1,5 @@
+[Research](Research/research.md)      [Teaching](teaching.md)      [General Audience](General-audience/general-audience.med)     [Resume](Resume/resume.md)      [Contact](Contact/contact.md)
+
 # Contact
 
 * Email: [manon.berriche@sciencespo.fr](manon.berriche@sciencespo.fr)
