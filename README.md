@@ -12,7 +12,7 @@ I am a PhD candidate at the [médialab of Sciences Po Paris](https://medialab.sc
 
 * [My Science Popularization Publications](General-Audience.md) 
 
-* [My Resume](https://drive.google.com/file/d/1I0KV-W6e-GILbYcOQhKHVhXaMMB64iSr/view)
+* [My Resume](https://drive.google.com/file/d/1I0KV-W6e-GILbYcOQhKHVhXaMMB64iSr/view?usp=sharing)
 
 
 # You can contact me at: 
@@ -36,7 +36,6 @@ I am a PhD candidate at the [médialab of Sciences Po Paris](https://medialab.sc
 
 * [Instagram](https://www.instagram.com/manonberriche)
 
-* [but already too old to be on TikTok...]()
 
 
 
