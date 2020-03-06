@@ -1,4 +1,4 @@
-[Research](https://manonberriche.github.io/research.md) [Teachin](
+[Research](https://manonberriche.github.io/research.md) [Teachin]() [General Audience]() [Contact]()
 
 # PhD Candidate
 
