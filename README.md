@@ -1,4 +1,4 @@
-[Research](Research/research.md)      [Teaching](teaching.md)      [General Audience](general-audience.md)     [Resume](resume.md)      [Contact](contact.md)
+[Research](Research/research.md)      [Teaching](teaching.md)      [General Audience](General-Audience.md)     [Resume](Resume.md)      [Contact](contact.md)
 
 # Manon Berriche - PhD Candidate
 
