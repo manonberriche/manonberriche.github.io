@@ -1,8 +1,10 @@
-# Articles
+# 
+
+## Articles
 
 * Berriche, M. & Altay, S. (In Principle Acceptance). ["Sister, I love you!" Phatic Posts Are More Successful On Facebook Than Health Misinformation](https://doi.org/10.31234/osf.io/nj2sr). *Palgrave Communications*.
 
-# Conference Presentations
+## Conference Presentations
 
 * Berriche, M. (2020). A Social Network Analysis To Study The Argumentative Interactions Between Pro And Anti-Vaxxers On Facebook. *International Network For Social Network Analysis (Sunbelt)*, Paris, France. Presentation.
 
