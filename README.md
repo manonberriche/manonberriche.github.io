@@ -1,4 +1,4 @@
-[Research](Research/research.md)    [Teaching](Teaching/teaching.md)   [General Audience](General-audience/general-audience.med)   [Resume](Resume/resume.md)    [Contact](Contact/contact.md)
+[Research](Research/research.md)    [Teaching](Teaching)   [General Audience](General-audience/general-audience.med)   [Resume](Resume/resume.md)    [Contact](Contact/contact.md)
 
 # Manon Berriche
 
