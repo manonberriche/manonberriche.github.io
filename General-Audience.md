@@ -1,4 +1,3 @@
-[Research](Research/research.md)      [Teaching](teaching.md)      [General Audience](general-audience.md)     [Resume](resume.md)      [Contact](contact.md)
 
 # General Audience
 
