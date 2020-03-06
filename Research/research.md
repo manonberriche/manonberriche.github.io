@@ -1,8 +1,10 @@
-# 
+# Research
+
 
 ## Articles
 
 * Berriche, M. & Altay, S. (In Principle Acceptance). ["Sister, I love you!" Phatic Posts Are More Successful On Facebook Than Health Misinformation](https://doi.org/10.31234/osf.io/nj2sr). *Palgrave Communications*.
+
 
 ## Conference Presentations
 
