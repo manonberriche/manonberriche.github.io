@@ -1,4 +1,4 @@
-[Research](https://manonberriche.github.io/research.md)    [Teaching]()   [General Audience]()   [Resume]()    [Contact]()
+[Research](Research/research.md)    [Teaching]()   [General Audience]()   [Resume]()    [Contact]()
 
 # Manon Berriche
 
