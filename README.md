@@ -14,21 +14,23 @@ I am a PhD candidate at the médialab of Sciences Po Paris and at the Center for
 * [My Resume](https://drive.google.com/file/d/1I0KV-W6e-GILbYcOQhKHVhXaMMB64iSr/view)
 
 
-# You can contact me at: [manon.berriche@sciencespo.fr](manon.berriche@sciencespo.fr)
+## You can contact me at: [manon.berriche@sciencespo.fr](manon.berriche@sciencespo.fr)
 
 # And I am also on: 
 
-* Twitter: [@berriche_manon](https://twitter.com/berriche_manon)
+* [Twitter](https://twitter.com/berriche_manon)
 
-* Google Scholar: [Manon BERRICHE](https://scholar.google.com/schhp?hl=fr)
+* [Google Scholar](https://scholar.google.com/schhp?hl=fr)
 
-* Github: [@manonberriche](https://github.com/manonberriche)
+* [Github](https://github.com/manonberriche)
 
-* Linkedin: [Manon BERRICHE](https://www.linkedin.com/in/manon-berriche)
+* [Linkedin](https://www.linkedin.com/in/manon-berriche)
 
-* Medium: [@manonberriche](https://medium.com/@manonberriche)
+* [Medium](https://medium.com/@manonberriche)
 
-* Instagram: [@manonberriche](https://www.instagram.com/manonberriche)
+* [Instagram](https://www.instagram.com/manonberriche)
+
+* but already too old to be on TikTok...
 
 
 
