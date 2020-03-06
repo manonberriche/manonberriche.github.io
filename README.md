@@ -28,7 +28,7 @@ I am a PhD candidate at the [médialab of Sciences Po Paris](https://medialab.sc
 
 * [Google Scholar](https://scholar.google.com/schhp?hl=fr)
 
-* [Github](https://github.com/manonberriche)
+* [GitHub](https://github.com/manonberriche)
 
 * [Linkedin](https://www.linkedin.com/in/manon-berriche)
 
