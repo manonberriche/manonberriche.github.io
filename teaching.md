@@ -10,4 +10,5 @@
 
 # Students' Supervisions
 
-Spring 2020: supervision of Lise Kiennemann and Jeanne-Louise Rollinger undergraduate research internships
+* Spring 2020: supervision of Lise Kiennemann and Jeanne-Louise Rollinger undergraduate research internships' supervision 
+
