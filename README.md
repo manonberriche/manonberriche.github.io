@@ -1,5 +1,5 @@
-[Research](https://manonberriche.github.io/research.md) [Teachin]() [General Audience]() [Contact]()
+[Research](https://manonberriche.github.io/research.md) [Teaching]() [General Audience]() [Resume]() [Contact]()
 
-# PhD Candidate
+# Manon Berriche
 
-I am a PhD candidate at the médialab of Sciences Po Paris and at the Center for Research and Interdisciplinarity. The goal of my thesis is  to better understand the impact of the phenomenon of misinformation by measuring which types of fake news are the most likely to go viral and in which social contexts it is  more likely to be disseminated. To do so, I articulate approaches from media studies and cognitive psychology, and I complement digital methods — such as social network analysis — with finer-grained analysis of lay people's expressivity on social media.
+I am a PhD candidate at the médialab of Sciences Po Paris and at the Center for Research and Interdisciplinarity. I am working under the supervision of Dominique Cardon and Sophie Pène on the phenomenon of misinformation. The goal of my thesis is to measure the types of fake news the most likely to go viral online and the extent to which some contexts of communication may spur their diffusion. To do so, I articulate approaches from media studies and cognitive psychology, and I complement digital methods — such as social network analysis and automatic textual analysis — with finer-grained examination of lay people's expressivity on social media.
