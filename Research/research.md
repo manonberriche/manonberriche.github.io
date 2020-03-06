@@ -15,3 +15,11 @@
 ## Work in progress
 
 * From Polarization To Argumentation: The Case  Of The Caccination Debate On Facebook
+
+## Invited Talks
+
+* Berriche, M. & Altay, S. (2019). La Désinformation en Santé dans les Médias. Assemblée Nationale.
+
+* Berriche, M. (2019).  Fake News and the New Circuits of Information in the Digital Age. University of Strasbourg.
+
+* Berriche, M. (2019). La santé face aux désordres de l’information : impacts et solutions.  Conférence des Présidents d'Université.
