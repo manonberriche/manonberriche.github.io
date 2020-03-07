@@ -2,7 +2,7 @@
 # **Manon Berriche**
 
 -----------------
-## [Home](https://manonberriche.github.io/) • [Research](Research/research.md) • [Science Popularization](General-Audience.md) • [Resume](https://drive.google.com/file/d/1I0KV-W6e-GILbYcOQhKHVhXaMMB64iSr/view?usp=sharing)
+## [Home](https://manonberriche.github.io/) • [Research](research.md) • [Science Popularization](General-Audience.md) • [Resume](https://drive.google.com/file/d/1I0KV-W6e-GILbYcOQhKHVhXaMMB64iSr/view?usp=sharing)
 -----------------
 
 # Teaching
@@ -14,9 +14,9 @@
 
 ## Teaching Assistant
 
-* Fall 2018: Digital Culture - Bachelor Degree, Sciences Po Paris (teacher: [Dominique Cardon](https://medialab.sciencespo.fr/equipe/dominique-cardon/))
+* Fall 2018: Digital Culture - Bachelor Degree, Sciences Po Paris (teacher: [**Dominique Cardon**](https://medialab.sciencespo.fr/equipe/dominique-cardon/))
 
-* Fall 2018 and Spring 2019:  Initiation to entrepreneurship - Master Degree, Sciences Po Paris (teacher: [Jacques-Henri Eyraud](https://fr.wikipedia.org/wiki/Jacques-Henri_Eyraud))
+* Fall 2018 and Spring 2019:  Initiation to entrepreneurship - Master Degree, Sciences Po Paris (teacher: [**Jacques-Henri Eyraud**](https://fr.wikipedia.org/wiki/Jacques-Henri_Eyraud))
 
 
 ## Students' Supervisions
