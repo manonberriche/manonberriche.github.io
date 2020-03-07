@@ -1,6 +1,6 @@
 # Manon Berriche  
 
-![photo-manon](MB-Photo-2018.jpg) 
+![photo-manon](MB.jpg) 
 
 # Manon Berriche  
 
