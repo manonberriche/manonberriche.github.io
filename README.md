@@ -2,7 +2,7 @@
 
 -----------------
 
-## [Research](Research/research.md) • [Teaching](teaching.md) • [Science Popularization](General-Audience.md) • [Resume](https://drive.google.com/file/d/1I0KV-W6e-GILbYcOQhKHVhXaMMB64iSr/view?usp=sharing)
+## [Research](research.md) • [Teaching](teaching.md) • [Science Popularization](General-Audience.md) • [Resume](https://drive.google.com/file/d/1I0KV-W6e-GILbYcOQhKHVhXaMMB64iSr/view?usp=sharing)
 
 -----------------
 
