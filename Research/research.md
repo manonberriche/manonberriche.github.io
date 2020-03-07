@@ -1,7 +1,7 @@
 
 # Manon Berriche
 
-## [Home](https://manonberriche.github.io/) • [Teaching](teaching.md) • [Science Popularization](General-Audience.md) • [Resume](https://drive.google.com/file/d/1I0KV-W6e-GILbYcOQhKHVhXaMMB64iSr/view?usp=sharing)
+## [Home](https://manonberriche.github.io/) • [Teaching](teaching.md) • [Science Popularization](General-Audience.md) • [Resume](https://drive.google.com/file/d/1I0KV-W6e-GILbYcOQhKHVhXaMMB64iSr/view?usp=sharing) 
 
 
 ## Articles
