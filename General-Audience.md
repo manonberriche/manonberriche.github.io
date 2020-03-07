@@ -45,4 +45,4 @@
 
 ## Associative Project
 
-* Critical Thinking Club : launch of a group of discussion at the Center for Research and Interdisciplinarity to foster collaboration between  researchers, teachers, mediators, parents, etc. in order to work on research and educational projects related to critical thinking.
+* _Critical Thinking Club_: launch of a group of discussion at the Center for Research and Interdisciplinarity to foster collaboration between  researchers, teachers, mediators, parents, etc. in order to work on research and educational projects related to critical thinking.
