@@ -1,5 +1,7 @@
 
-# General Audience
+# Manon Berriche
+
+## [Home](https://manonberriche.github.io/) • [Research](Research/research.md) • [Teaching](teaching.md) • [Resume](https://drive.google.com/file/d/1I0KV-W6e-GILbYcOQhKHVhXaMMB64iSr/view?usp=sharing)
 
 ## Articles
 
