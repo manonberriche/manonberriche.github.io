@@ -37,7 +37,7 @@ I am a PhD candidate at the [médialab of Sciences Po Paris](https://medialab.sc
 * [Instagram](https://www.instagram.com/manonberriche)
 
 
-![logo-medialab](logo-medialab.png)  ![logo-cri](logo-cri.png)
+<img align="left" width="100" height="100" ![logo-medialab](logo-medialab.png)  <img align="right" width="100" height="100"   ![logo-cri](logo-cri.png) 
 
 
 
