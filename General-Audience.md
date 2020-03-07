@@ -1,11 +1,16 @@
 
 # **Manon Berriche** 
 
------------------
-## [Home](https://manonberriche.github.io/) • [Research](research.md) • [Teaching](teaching.md) • [Resume](https://drive.google.com/file/d/1I0KV-W6e-GILbYcOQhKHVhXaMMB64iSr/view?usp=sharing)
+
 -----------------
 
+## [Home](https://manonberriche.github.io/) • [Research](research.md) • [Teaching](teaching.md) • [Resume](https://drive.google.com/file/d/1I0KV-W6e-GILbYcOQhKHVhXaMMB64iSr/view?usp=sharing)
+
+-----------------
+
+
 # Science Popularization
+
 
 ## Articles
 
@@ -22,6 +27,7 @@
 * Berriche, M. (2019). [D’une expérimentation sociale à une politique publique éducative : un long chemin. L’étude de cas du dispositif de Médiation Sociale en Milieu Scolaire pour lutter contre le harcèlement et la violence à l’école](https://www.revue-affairespubliques.org/single-post/2019/07/05/D%25E2%2580%2599une-exp%25C3%25A9rimentation-sociale-%25C3%25A0-une-politique-publique-%25C3%25A9ducative-un-long-chemin). *Revue de l'École d'Affaires Publiques de Sciences Po Paris*.
 
 * Brachet, A. & Berriche, M. (2019). [Bright Mirror : Continuons à écrire un futur utopique](https://usbeketrica.com/article/bright-mirror-ecrire-futur-utopique). *Usbeck & Rica*
+
 
 ## Interventions and Presentations
 
@@ -42,6 +48,7 @@
 * Cardon, D. & Berriche, M. (2019, October 11). Parcours Éducatifs : Les Veilleurs De L'Info. *La Ligue de l'Enseignement et France TV Éducation*.
 
 * Berriche, M. (2019, February 15 ). « Fake news » Fausse Nouvelle : Histoire Et Décryptages. *Bibliothèque Nationale de France*.
+
 
 ## Associative Project
 
