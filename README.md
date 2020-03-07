@@ -1,4 +1,4 @@
-![photo-manon](MB-phot-2018.jpg) 
+![photo-manon](MB-Photo-2018.jpg) 
 
 # Manon Berriche  
 
