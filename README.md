@@ -1,6 +1,6 @@
 # Manon Berriche  
 
-![photo-manon](MB-Photo-2018.jpg =250x250) 
+![photo-manon](MB-Photo-2018.jpg) 
 
 # Manon Berriche  
 
