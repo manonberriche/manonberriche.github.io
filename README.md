@@ -1,5 +1,7 @@
 # **Manon Berriche**
 
+-----------------
+
 ## [Research](Research/research.md) • [Teaching](https://manonberriche.github.io/teaching.html) • [Science Popularization](https://manonberriche.github.io/General-Audience.html) • [Resume](https://drive.google.com/file/d/1I0KV-W6e-GILbYcOQhKHVhXaMMB64iSr/view?usp=sharing)
 
 -----------------
