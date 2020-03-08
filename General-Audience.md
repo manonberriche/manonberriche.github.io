@@ -55,4 +55,9 @@
 
 ## Associative Project
 
-* **Critical Thinking Club**: launch of a group of discussion at the Center for Research and Interdisciplinarity to foster collaboration between  researchers, teachers, mediators, parents, etc. in order to work on research and educational projects related to critical thinking.
+* **Critical Thinking Club**: Co-founder of a group of discussion at the Center for Research and Interdisciplinarity to foster collaboration between  researchers, teachers, mediators, parents, etc. in order to work on research and educational projects related to critical thinking.
+
+**Debates organized**:
+- Croyances et Prises de Décisions, January 30 2020
+- Esprit Critique et Santé Publique, November 28 2019
+- Altruisme Efficace et Rationnalité Appliquée, October 24 2019
