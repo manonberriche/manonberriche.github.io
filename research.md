@@ -13,7 +13,7 @@
 
 ## Articles
 
-* **Berriche**, M. & Altay, S. (In Principle Acceptance). [Positive Phatic Posts Are More Successful On Facebook Than Health Misinformation](https://doi.org/10.31234/osf.io/nj2sr). *Palgrave Communications*.
+* **Berriche**, M. & Altay, S. (In Principle Acceptance). [Internet Users Engage More With Phatic Posts Than Health Misinformation On Facebook](https://doi.org/10.31234/osf.io/nj2sr). *Palgrave Communications*.
 
 
 ## Conference Presentations
