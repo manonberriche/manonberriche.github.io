@@ -9,7 +9,7 @@
 -----------------
 
 -----------------
-# Teaching
+# [center]Teaching[/center]
 -----------------
 
 ## Assistant Lecturer
