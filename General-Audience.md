@@ -31,10 +31,10 @@
 
 * Brachet, A. & Berriche, M. (2019). [Bright Mirror : Continuons à écrire un futur utopique](https://usbeketrica.com/article/bright-mirror-ecrire-futur-utopique). *Usbeck & Rica*
 
+* Berriche, M. (2018). [Pourquoi faut-il éviter d'utiliser le terme "fake news" ?](https://medium.com/@manonberriche/pourquoi-faut-il-éviter-dutiliser-le-terme-fake-news-8b837bda62fe). *Medium*
+
 
 ## Interventions and Presentations
-
-* Berriche, M. & Altay, S. (2020, April 18). "Salut ! Comment tu vas ?" Quand les énoncés phatiques ont plus de succès que les infoxs de santé sur Facebook. Colloque des Jeunes Chercheurs (Fresco). *École Normale Supérieure*.
 
 * Berriche, M. (2020, March 10). Démarche Scientifique et Éducation aux Médias à l'Information. *Centre pour l'éducation aux médias et à l'information (Clemi)*, *Académie de Lille*.
 
