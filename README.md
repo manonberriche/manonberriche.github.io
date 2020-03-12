@@ -28,8 +28,6 @@ I am a PhD candidate at the [**médialab of Sciences Po Paris**](https://mediala
 
 * [Linkedin](https://www.linkedin.com/in/manon-berriche)
 
-* [Medium](https://medium.com/@manonberriche)
-
 * [Instagram](https://www.instagram.com/manonberriche)
 
 
