@@ -30,6 +30,8 @@ Normale, Supérieure, Paris, France. Presentation & Poster.
 
 * From Polarization To Argumentation: The Case  Of The Vaccination Debate On Facebook
 
+* Epistemic Vigilance In The Age Of Misinformation
+
 ## Invited Talks
 
 * **Berriche**, M. & Altay, S. (2019). [La Désinformation en Santé dans les Médias](http://videos.assemblee-nationale.fr/video.8425833_5dcd0ebadfcb2.opecst--audition-publique-sur-l-hesitation-vaccinale--14-novembre-2019?fbclid=IwAR168oIvDON4YoY3oeGiFvOBbYw5OsTwACOUDnLxgKG3Cv9r2WV0n9l8uR4). Audition Publique. *Assemblée Nationale*.
