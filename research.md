@@ -13,7 +13,7 @@
 
 ## Articles
 
-* **Berriche**, M. & Altay, S. (In Principle Acceptance). [Internet Users Engage More With Phatic Posts Than Health Misinformation On Facebook](https://doi.org/10.31234/osf.io/nj2sr). *Palgrave Communications*.
+* **Berriche**, M. & Altay, S. (In Press). [Internet Users Engage More With Phatic Posts Than Health Misinformation On Facebook](https://doi.org/10.31234/osf.io/nj2sr). *Palgrave Communications*.
 
 
 ## Conference Presentations
