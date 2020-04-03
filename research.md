@@ -18,7 +18,6 @@
 
 ## Conference Presentations
 
-* **Berriche**, M. (2020). “What’s your source?” Lay People’s Arguments And Expertise In Reaction To Vaccination (Mis)information On Facebook. * EASST/4S*, Prague, Czech Republic. Presentation
 
 * **Berriche**, M. (2020). A Social Network Analysis To Study The Argumentative Interactions Between Pro And Anti-Vaxxers On Facebook. *International Network For Social Network Analysis (Sunbelt)*, Paris, France. Presentation.
 
