@@ -3,7 +3,7 @@
 
 -----------------
 
-## [Home](https://manonberriche.github.io/) • [Teaching](https://manonberriche.github.io/teaching.html) • [Science Popularization](https://manonberriche.github.io/General-Audience.html) • [Resume](https://drive.google.com/file/d/1I0KV-W6e-GILbYcOQhKHVhXaMMB64iSr/view?usp=sharing) 
+## [Home](https://manonberriche.github.io/) • [Teaching](https://manonberriche.github.io/teaching.html) • [Science Popularization](https://manonberriche.github.io/General-Audience.html) • [Resume](https://drive.google.com/file/d/1NDjy77K3yvf1hH2QMKgxxUNQ_uHJP1lY/view?usp=sharing) 
 
 -----------------
 
@@ -13,10 +13,12 @@
 
 ## Articles
 
-* **Berriche**, M. & Altay, S. (In Press). [Internet Users Engage More With Phatic Posts Than Health Misinformation On Facebook](https://doi.org/10.31234/osf.io/nj2sr). *Palgrave Communications*.
+* **Berriche**, M. & Altay, S. (In Press). [Internet Users Engage More With Phatic Posts Than With Health Misinformation On Facebook](https://doi.org/10.31234/osf.io/nj2sr). *Palgrave Communications*.
 
 
 ## Conference Presentations
+
+* **Berriche**, M. (2020). “What’s your source?” Lay People’s Arguments And Expertise In Reaction To Vaccination (Mis)information On Facebook. * EASST/4S*, Prague, Czech Republic. Presentation
 
 * **Berriche**, M. (2020). A Social Network Analysis To Study The Argumentative Interactions Between Pro And Anti-Vaxxers On Facebook. *International Network For Social Network Analysis (Sunbelt)*, Paris, France. Presentation.
 
