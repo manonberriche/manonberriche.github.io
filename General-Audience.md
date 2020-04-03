@@ -4,7 +4,7 @@
 
 -----------------
 
-## [Home](https://manonberriche.github.io/) • [Research](research.md) • [Teaching](teaching.md) • [Resume](https://drive.google.com/file/d/1I0KV-W6e-GILbYcOQhKHVhXaMMB64iSr/view?usp=sharing)
+## [Home](https://manonberriche.github.io/) • [Research](research.md) • [Teaching](teaching.md) • [Resume](https://drive.google.com/file/d/1NDjy77K3yvf1hH2QMKgxxUNQ_uHJP1lY/view?usp=sharing)
 
 -----------------
 
