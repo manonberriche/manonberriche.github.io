@@ -15,9 +15,10 @@
 
 * **Berriche**, M. & Altay, S. (In Press). [Internet Users Engage More With Phatic Posts Than With Health Misinformation On Facebook](https://doi.org/10.31234/osf.io/nj2sr). *Palgrave Communications*.
 
+* **Berriche**, M. (2019). [From A Social Experiment To A Public Educational Policy: A Long Journey] (https://en.revue-affairespubliques.org/single-post/2019/07/05/D%25E2%2580%2599une-exp%25C3%25A9rimentation-sociale-%25C3%25A0-une-politique-publique-%25C3%25A9ducative-un-long-chemin). Sciences Po Review of Public Affairs, (3), 121-125.
+
 
 ## Conference Presentations
-
 
 * **Berriche**, M. (2020). A Social Network Analysis To Study The Argumentative Interactions Between Pro And Anti-Vaxxers On Facebook. *International Network For Social Network Analysis (Sunbelt)*, Paris, France. Presentation.
 
@@ -32,6 +33,9 @@ Normale, Supérieure, Paris, France. Presentation & Poster.
 * From Polarization To Argumentation: The Case  Of The Vaccination Debate On Facebook
 
 * Epistemic Vigilance In The Age Of Misinformation
+
+* Fake news panic. Circuits et chemins de l’information dans l’espace public numérique
+
 
 ## Invited Talks
 
