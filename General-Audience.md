@@ -25,7 +25,7 @@
 
 * Berriche, M. (2019). ["Regarde, j'ai vu ça sur Facebook !" Quand nos bavardages nourrissent les "fake news"](https://theconversation.com/regarde-jai-vu-ca-sur-facebook-quand-nos-bavardages-nourrissent-les-fake-news-123426). *The Conversation*.
 
-* Berriche, M. (2019). ["Fake news" et santé : des internautes pas si crédules](https://theconversation.com/fake-news-et-sante-des-internautes-pas-si-credules-118786). The Conversation.
+* Berriche, M. (2019). ["Fake news" et santé : des internautes pas si crédules](https://theconversation.com/fake-news-et-sante-des-internautes-pas-si-credules-118786). *The Conversation*.
 
 * Brachet, A. & Berriche, M. (2019). [Bright Mirror : Continuons à écrire un futur utopique](https://usbeketrica.com/article/bright-mirror-ecrire-futur-utopique). *Usbeck & Rica*
 
