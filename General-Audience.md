@@ -27,8 +27,6 @@
 
 * Berriche, M. (2019). ["Fake news" et santé : des internautes pas si crédules](https://theconversation.com/fake-news-et-sante-des-internautes-pas-si-credules-118786). The Conversation.
 
-* Berriche, M. (2019). [D’une expérimentation sociale à une politique publique éducative : un long chemin. L’étude de cas du dispositif de Médiation Sociale en Milieu Scolaire pour lutter contre le harcèlement et la violence à l’école](https://www.revue-affairespubliques.org/single-post/2019/07/05/D%25E2%2580%2599une-exp%25C3%25A9rimentation-sociale-%25C3%25A0-une-politique-publique-%25C3%25A9ducative-un-long-chemin). *Revue de l'École d'Affaires Publiques de Sciences Po Paris*.
-
 * Brachet, A. & Berriche, M. (2019). [Bright Mirror : Continuons à écrire un futur utopique](https://usbeketrica.com/article/bright-mirror-ecrire-futur-utopique). *Usbeck & Rica*
 
 * Berriche, M. (2018). [Pourquoi faut-il éviter d'utiliser le terme "fake news" ?](https://medium.com/@manonberriche/pourquoi-faut-il-éviter-dutiliser-le-terme-fake-news-8b837bda62fe). *Medium*
