@@ -17,7 +17,7 @@
 
 ## Articles
 
-*  Berriche, M. & Altay, S. (Forthcoming).3 infoxs sur les infoxs. *The Conversation*.
+*  Berriche, M. & Altay, S. (Forthcoming). 3 infoxs sur les infoxs. *The Conversation*.
 
 * Berriche, M. (2020). [From fake news’ URLs to their reception IRL #InRealLife](https://www.sciencespo.fr/research/cogito/home/fake-news-from-urls-to-their-reception-inreallife/?lang=en). *Cogito n°8. Le Magazine de la Recherche de Sciences Po*.
 
