@@ -16,6 +16,8 @@
 
 * Fall 2019: [Culture et enjeux du numérique](http://formation.sciences-po.fr/enseignement/2019/BEXP/25F00) - Bachelor Degree, Sciences Po Paris
 
+* Spring 2019: Sociologie numérique de la crise du Covid-19 - Master Degree, Université Paris-Est Marne-la-Vallée
+
 
 ## Teaching Assistant
 
