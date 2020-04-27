@@ -21,9 +21,9 @@
 
 ## Teaching Assistant
 
-* Fall 2018: [Digital Culture](http://formation.sciences-po.fr/enseignement/2018/bexp/23a00) - Bachelor Degree, Sciences Po Paris (teacher: [**Dominique Cardon**](https://medialab.sciencespo.fr/equipe/dominique-cardon/))
+* Fall 2018: [Digital Culture](http://formation.sciences-po.fr/enseignement/2018/bexp/23a00) - Bachelor Degree, Sciences Po Paris (teacher: [Dominique Cardon](https://medialab.sciencespo.fr/equipe/dominique-cardon/))
 
-* Fall 2018 and Spring 2019:  [Initiation to entrepreneurship](http://formation.sciences-po.fr/enseignement/2018/obus/2045) - Master Degree, Sciences Po Paris (teacher: [**Jacques-Henri Eyraud**](https://fr.wikipedia.org/wiki/Jacques-Henri_Eyraud))
+* Fall 2018 and Spring 2019:  [Initiation to entrepreneurship](http://formation.sciences-po.fr/enseignement/2018/obus/2045) - Master Degree, Sciences Po Paris (teacher: [Jacques-Henri Eyraud](https://fr.wikipedia.org/wiki/Jacques-Henri_Eyraud))
 
 
 ## Students' Supervisions
