@@ -13,9 +13,9 @@
 
 ## Articles
 
-* **Berriche**, M. & Altay, S. (In Press). [Internet Users Engage More With Phatic Posts Than With Health Misinformation On Facebook](https://doi.org/10.31234/osf.io/nj2sr). *Palgrave Communications*.
+* **Berriche**, M. & Altay, S. (2020). [Internet Users Engage More With Phatic Posts Than With Health Misinformation On Facebook](https://doi.org/10.1057/s41599-020-0452-1). *Palgrave Communications*.
 
-* **Berriche**, M. (2019). [From A Social Experiment To A Public Educational Policy: A Long Journey](https://hal.archives-ouvertes.fr/hal-02527164/document). Sciences Po Review of Public Affairs, (3), 121-125.
+* **Berriche**, M. (2019). [From A Social Experiment To A Public Educational Policy: A Long Journey](https://hal.archives-ouvertes.fr/hal-02527164/document). *Sciences Po Review of Public Affairs*, (3), 121-125.
 
 
 ## Conference Presentations
