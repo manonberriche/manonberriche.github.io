@@ -15,14 +15,16 @@
 
 * **Berriche**, M. & Altay, S. (2020). [Internet Users Engage More With Phatic Posts Than With Health Misinformation On Facebook](https://doi.org/10.1057/s41599-020-0452-1). *Palgrave Communications*.
 
-* **Berriche**, M. (2019). [From A Social Experiment To A Public Educational Policy: A Long Journey](https://hal.archives-ouvertes.fr/hal-02527164/document). *Sciences Po Review of Public Affairs*, (3), 121-125.
+* **Berriche**, M. (2019). [From A Social Experiment To A Public Educational Policy: A Long Journey](https://hal.archives-ouvertes.fr/hal-02527164/document). *Sciences Po Review of Public Affairs*.
 
 
 ## Conference Presentations
 
-* **Berriche**, M. (2020). A Social Network Analysis To Study The Argumentative Interactions Between Pro And Anti-Vaxxers On Facebook. *International Network For Social Network Analysis (Sunbelt)*, Paris, France. Presentation.
+* **Berriche**, M. (2020). What’s Your Source?” Lay People’s Arguments And Expertise In Reaction To Vaccination (Mis)information On Facebook. *4S/EASST*, Prague, Czech Republic. Presentation.
 
-* **Berriche**, M. & Altay, S. (2020). « Salut ! Comment Tu Vas ? » Quand Les Énoncés Phatiques Ont
+* **Berriche**, M. (2020 - canceled due to Covid-19). A Social Network Analysis To Study The Argumentative Interactions Between Pro And Anti-Vaxxers On Facebook. *International Network For Social Network Analysis (Sunbelt)*, Paris, France. Presentation.
+
+* **Berriche**, M. & Altay, S. (2020 - canceled due to Covid-19). « Salut ! Comment Tu Vas ? » Quand Les Énoncés Phatiques Ont
 Plus De Succès Que Les Infoxs De Santé Sur Facebook. *Colloque des jeunes chercheurs (Fresco)*, École
 Normale, Supérieure, Paris, France. Presentation & Poster.
 
@@ -32,7 +34,7 @@ Normale, Supérieure, Paris, France. Presentation & Poster.
 
 * From Polarization To Argumentation: The Case  Of The Vaccination Debate On Facebook
 
-* Epistemic Vigilance In The Age Of Misinformation
+* Epistemic Vigilance In The Digital Age
 
 * Fake news panic. Circuits et chemins de l’information dans l’espace public numérique
 
