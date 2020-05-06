@@ -17,6 +17,20 @@
 
 * **Berriche**, M. (2019). [From A Social Experiment To A Public Educational Policy: A Long Journey](https://hal.archives-ouvertes.fr/hal-02527164/document). *Sciences Po Review of Public Affairs*.
 
+## Book Reviews
+
+* **Berriche**, M. (Forthcoming). Culture numérique. Dominique Cardon. *Hermès, La Revue*.
+
+* **Berriche**, M. (Forthcoming). Not born yesterday. The science of who we trust and what we believe *Réseaux.
+
+## Work in progress
+
+* From Polarization To Argumentation: The Case  Of The Vaccination Debate On Facebook
+
+* Epistemic Vigilance In The Digital Age
+
+* Fake news panic. Circuits et chemins de l’information dans l’espace public numérique
+
 
 ## Conference Presentations
 
@@ -29,14 +43,6 @@ Plus De Succès Que Les Infoxs De Santé Sur Facebook. *Colloque des jeunes cher
 Normale, Supérieure, Paris, France. Presentation & Poster.
 
 * **Berriche**, M. & Altay, S. (2020). Positive Attitude! Audience Engages More With Positive And Phatic Posts Than With Health Misinformation On Facebook. *Research on Online Political Hostility (ROPH)*, Aarhus, Denmark. Poster.
-
-## Work in progress
-
-* From Polarization To Argumentation: The Case  Of The Vaccination Debate On Facebook
-
-* Epistemic Vigilance In The Digital Age
-
-* Fake news panic. Circuits et chemins de l’information dans l’espace public numérique
 
 
 ## Invited Talks
