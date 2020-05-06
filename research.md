@@ -19,9 +19,9 @@
 
 ## Book Reviews
 
-* **Berriche**, M. (Forthcoming). Culture numérique. Dominique Cardon. *Hermès, La Revue*.
+* **Berriche**, M. (Forthcoming). Culture numérique. (Dominique Cardon). *Hermès, La Revue*.
 
-* **Berriche**, M. (Forthcoming). Not born yesterday. The science of who we trust and what we believe *Réseaux.
+* **Berriche**, M. (Forthcoming). Not born yesterday. The science of who we trust and what we believe (Hugo Mercier). *Réseaux*.
 
 ## Work in progress
 
