@@ -3,7 +3,7 @@
 
 ### [Home](https://manonberriche.github.io/) • [Teaching](teaching.md) • [Science Popularization](General-Audience.md) • 
 
-#### My CV can be downloaded [here](https://drive.google.com/file/d/1I0KV-W6e-GILbYcOQhKHVhXaMMB64iSr/view) (updated in March 2020)
+#### My CV can be downloaded [here](https://drive.google.com/file/d/1syRqm-ya3dwk69_t_84dEMdOoiHAiZBB/view?usp=sharing) (updated in May 2020)
 
 ## Education
 * 2019-2022: PhD Candidate  - médialab Sciences Po, Center for Research and Interdisciplinarity
