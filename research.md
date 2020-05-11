@@ -36,7 +36,7 @@
 
 * **Berriche**, M. (2020). "What’s Your Source?” Lay People’s Arguments And Expertise In Reaction To Vaccination (Mis)information On Facebook. *4S/EASST*, Prague, Czech Republic. **Presentation**.
 
-* **Berriche**, M. (2020 - canceled due to Covid-19). A Social Network Analysis To Study The Argumentative Interactions Between Pro And Anti-Vaxxers On Facebook. *International Network For Social Network Analysis (Sunbelt)*, Paris, France. **Presentation**.
+* **Berriche**, M. (2020). A Social Network Analysis To Study The Argumentative Interactions Between Pro And Anti-Vaxxers On Facebook. *International Network For Social Network Analysis (Sunbelt)*, Paris, France. **Presentation**.
 
 * **Berriche**, M. & Altay, S. (2020 - canceled due to Covid-19). « Salut ! Comment Tu Vas ? » Quand Les Énoncés Phatiques Ont
 Plus De Succès Que Les Infoxs De Santé Sur Facebook. *Colloque des jeunes chercheurs (Fresco)*, École
