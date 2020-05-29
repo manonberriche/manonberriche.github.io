@@ -13,9 +13,16 @@
 
 ## Articles
 
-* **Berriche**, M. & Altay, S. (2020). [Internet Users Engage More With Phatic Posts Than With Health Misinformation On Facebook](https://doi.org/10.1057/s41599-020-0452-1). *Palgrave Communications*, 6(1), 1-9.
+* **Berriche**, M., & Altay, S. (2020). [Internet Users Engage More With Phatic Posts Than With Health Misinformation On Facebook](https://doi.org/10.1057/s41599-020-0452-1). *Palgrave Communications*, 6(1), 1-9.
 
 * **Berriche**, M. (2019). [From A Social Experiment To A Public Educational Policy: A Long Journey](https://hal.archives-ouvertes.fr/hal-02527164/document). *Sciences Po Review of Public Affairs*, 3, 121-125.
+
+## Book Chapters
+
+* Cardon, D.,& **Berriche**, M. (In Preparation). Fake news panic. Circuits et chemins de l’information dans l’espace public numérique.
+
+* Cardon, D., Cointet, J.P., Ooghe, B., Plique, G., & **Berriche**, M. (In Preparation). Cartographie de l'espace médiatique français.
+
 
 ## Book Reviews
 
@@ -29,9 +36,9 @@
 
 * From Polarization To Argumentation: The Case  Of The Vaccination Debate On Facebook
 
-* Epistemic Vigilance In The Digital Age
+* Epistemic Vigilance In The Digital Age 
 
-* Fake news panic. Circuits et chemins de l’information dans l’espace public numérique
+* Du consensus à la critique : évolution des réactions à la crise du Covid-19 dans l’espace public français 
 
 
 ## Conference Presentations
@@ -40,7 +47,7 @@
 
 * **Berriche**, M. (2020). A Social Network Analysis To Study The Argumentative Interactions Between Pro And Anti-Vaxxers On Facebook. *International Network For Social Network Analysis (Sunbelt)*, Paris, France. **Presentation**.
 
-* **Berriche**, M. & Altay, S. (2020 - canceled due to Covid-19). « Salut ! Comment Tu Vas ? » Quand Les Énoncés Phatiques Ont
+* **Berriche**, M. & Altay, S. (canceled). « Salut ! Comment Tu Vas ? » Quand Les Énoncés Phatiques Ont
 Plus De Succès Que Les Infoxs De Santé Sur Facebook. *Colloque des jeunes chercheurs (Fresco)*, École
 Normale, Supérieure, Paris, France. **Presentation & Poster**.
 
