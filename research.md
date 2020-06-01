@@ -28,9 +28,9 @@
 
 * **Berriche**, M. (Forthcoming). Culture numérique. (Dominique Cardon). *Hermès, La Revue*.
 
-* **Berriche**, M. (In Preparation). Not born yesterday. The science of who we trust and what we believe. (Hugo Mercier). *Réseaux*.
+* **Berriche**, M. (Forthcoming). Fact-checking vs fake news. Vérifier pour mieux informer. (Laurent Bigot). *Hermès, La Revue*.
 
-* **Berriche**, M. (In Preparation). Fact-checking vs fake news. Vérifier pour mieux informer. (Laurent Bigot). *Hermès, La Revue*.
+* **Berriche**, M. (In Preparation). Not born yesterday. The science of who we trust and what we believe. (Hugo Mercier). *Réseaux*.
 
 ## Work in progress
 
