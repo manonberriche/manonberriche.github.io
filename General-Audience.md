@@ -17,7 +17,7 @@
 
 ## Articles
 
-*  **Berriche**, M. & Altay, S. (2020). [Trois infox sur les infox](https://theconversation.com/fact-check-trois-infox-sur-les-infox-136809). *The Conversation*.
+*  **Berriche**, M. & Altay, S. (2020). [Fact-check : trois infox sur les infox](https://theconversation.com/fact-check-trois-infox-sur-les-infox-136809). *The Conversation*.
 
 * **Berriche**, M. (2020). [From fake news’ URLs to their reception IRL #InRealLife](https://www.sciencespo.fr/research/cogito/home/fake-news-from-urls-to-their-reception-inreallife/?lang=en). *Cogito n°8. Le Magazine de la Recherche de Sciences Po*.
 
@@ -28,8 +28,6 @@
 * **Berriche**, M. (2019). ["Regarde, j'ai vu ça sur Facebook !" Quand nos bavardages nourrissent les "fake news"](https://theconversation.com/regarde-jai-vu-ca-sur-facebook-quand-nos-bavardages-nourrissent-les-fake-news-123426). *The Conversation*.
 
 * **Berriche**, M. (2019). ["Fake news" et santé : des internautes pas si crédules](https://theconversation.com/fake-news-et-sante-des-internautes-pas-si-credules-118786). *The Conversation*.
-
-* Brachet, A. & **Berriche**, M. (2019). [Bright Mirror : Continuons à écrire un futur utopique](https://usbeketrica.com/article/bright-mirror-ecrire-futur-utopique). *Usbeck & Rica*
 
 * **Berrich**e, M. (2018). [Pourquoi faut-il éviter d'utiliser le terme "fake news" ?](https://medium.com/@manonberriche/pourquoi-faut-il-éviter-dutiliser-le-terme-fake-news-8b837bda62fe). *Medium*
 
