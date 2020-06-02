@@ -17,7 +17,7 @@
 
 ## Articles
 
-*  **Berriche**, M. & Altay, S. (2020). [Fact-check : trois infox sur les infox](https://theconversation.com/fact-check-trois-infox-sur-les-infox-136809). *The Conversation*.
+*  **Berriche**, M., & Altay, S. (2020). [Fact-check : trois infox sur les infox](https://theconversation.com/fact-check-trois-infox-sur-les-infox-136809). *The Conversation*.
 
 * **Berriche**, M. (2020). [From fake news’ URLs to their reception IRL #InRealLife](https://www.sciencespo.fr/research/cogito/home/fake-news-from-urls-to-their-reception-inreallife/?lang=en). *Cogito n°8. Le Magazine de la Recherche de Sciences Po*.
 
@@ -34,6 +34,8 @@
 
 ## Interventions and Presentations
 
+* **Berriche, M**., & Cardon, D. (2020, June 10). Fake news panic. Circuits et chemins de l’information dans l’espace public numérique. Mooc "Exercer son esprit critique à l'ère du numérique", *Université de Genève*.
+
 * **Berriche**, M. (2020, March 10). Démarche Scientifique et Éducation aux Médias à l'Information. *Centre pour l'éducation aux médias et à l'information (Clemi)*, *Académie de Lille*.
 
 * **Berriche**, M. (2020, February 6). La Réception Médiatiques à l'Ère de la Désinformation. *Centre pour l'éducation aux médias et à l'information (Clemi)*.
@@ -44,9 +46,9 @@
 
 * **Berriche**, M. (2019, October 29). La Désinformation : État Des Lieux Et Solutions. Séminaire interdisciplinaire “Esprit critique et médias : lutter contre la désinformation à l’école et ailleurs”. *Université de Strasbourg*.
 
-* Yesilaltay, S. & **Berriche**, M. (2019, October 12-13). La Psychologie Des « Fake News ». *École Normale Supérieure*.
+* Yesilaltay, S., & **Berriche**, M. (2019, October 12-13). La Psychologie Des « Fake News ». *École Normale Supérieure*.
 
-* Cardon, D. & **Berriche**, M. (2019, October 11). Parcours Éducatifs : Les Veilleurs De L'Info. *La Ligue de l'Enseignement et France TV Éducation*.
+* Cardon, D., & **Berriche**, M. (2019, October 11). Parcours Éducatifs : Les Veilleurs De L'Info. *La Ligue de l'Enseignement et France TV Éducation*.
 
 * **Berriche**, M. (2019, February 15 ). « Fake news » Fausse Nouvelle : Histoire Et Décryptages. *Bibliothèque Nationale de France*.
 
