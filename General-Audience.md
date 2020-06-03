@@ -34,7 +34,7 @@
 
 ## Interventions and Presentations
 
-* **Berriche, M**., & Cardon, D. (2020, June 10). Fake news panic. Circuits et chemins de l’information dans l’espace public numérique. Mooc "Exercer son esprit critique à l'ère du numérique", *Université de Genève*.
+* **Berriche, M**.(2020, June 10).Exercer son esprit critique à l'ère du numérique, Mooc, *Université de Genève*.
 
 * **Berriche**, M. (2020, March 10). Démarche Scientifique et Éducation aux Médias à l'Information. *Centre pour l'éducation aux médias et à l'information (Clemi)*, *Académie de Lille*.
 
