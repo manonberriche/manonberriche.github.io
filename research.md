@@ -43,6 +43,8 @@
 
 ## Conference Presentations
 
+* **Berriche**, M. (2020). "T'as vérifié la source ? La vigilance du public face aux fake news à l'ère du numérique". *Séminaire Transnum*, Sciences Po, Paris, France. **Presentation**.
+
 * **Berriche**, M. (2020). "What’s Your Source?” Lay People’s Arguments And Expertise In Reaction To Vaccination (Mis)information On Facebook. *4S/EASST*, Prague, Czech Republic. **Presentation**.
 
 * **Berriche**, M. (2020). A Social Network Analysis To Study The Argumentative Interactions Between Pro And Anti-Vaxxers On Facebook. *International Network For Social Network Analysis (Sunbelt)*, Paris, France. **Presentation**.
