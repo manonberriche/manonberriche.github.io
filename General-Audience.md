@@ -42,8 +42,6 @@
 
 * **Berriche**, M. (2019, November 15). Festival des Idées : Penser l'Incroyable. La Bellevilloise, *Radio Parleur*.
 
-* **Berriche**, M. (2019, November 15) . Les Circuits Conversationnels De La Réception Médiatique. "Centre Des Médias : Distinguer Le Vrai Du Faux Dans Le Flux D'Informations". *Sciences Po Paris, Campus of Reims*.
-
 * **Berriche**, M. (2019, October 29). La Désinformation : État Des Lieux Et Solutions. Séminaire interdisciplinaire “Esprit critique et médias : lutter contre la désinformation à l’école et ailleurs”. *Université de Strasbourg*.
 
 * Yesilaltay, S., & **Berriche**, M. (2019, October 12-13). La Psychologie Des « Fake News ». *École Normale Supérieure*.
