@@ -26,7 +26,7 @@
 * Fall 2018 and Spring 2019:  [Initiation to entrepreneurship](http://formation.sciences-po.fr/enseignement/2018/obus/2045) - Master Degree, Sciences Po Paris (teacher: [Jacques-Henri Eyraud](https://fr.wikipedia.org/wiki/Jacques-Henri_Eyraud))
 
 
-## Guest Lectures
+## Guest Lecture
 
 * Fall 2019: [Centre Des Médias : Distinguer Le Vrai Du Faux Dans Le Flux D’Informations](http://formation.sciences-po.fr/enseignement/2019/bmet/27f04). - Bachelor Degree, Sciences Po Paris, Campus of Reims.
  
