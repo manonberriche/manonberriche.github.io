@@ -21,12 +21,12 @@
 
 ## Teaching Assistant
 
-* Fall 2018: [Digital Culture](http://formation.sciences-po.fr/enseignement/2018/bexp/23a00) - Bachelor Degree, Sciences Po Paris (teacher: [Dominique Cardon](https://medialab.sciencespo.fr/equipe/dominique-cardon/))
+* Fall 2018: [Digital Culture](http://formation.sciences-po.fr/enseignement/2018/bexp/23a00) - Bachelor Degree, Sciences Po Paris, Campus of Menton (teacher: [Dominique Cardon](https://medialab.sciencespo.fr/equipe/dominique-cardon/))
 
 * Fall 2018 and Spring 2019:  [Initiation to entrepreneurship](http://formation.sciences-po.fr/enseignement/2018/obus/2045) - Master Degree, Sciences Po Paris (teacher: [Jacques-Henri Eyraud](https://fr.wikipedia.org/wiki/Jacques-Henri_Eyraud))
 
 
-## Students' Supervisions
+## Guest Lectures
 
-* Spring 2020: supervision of Lise Kiennemann and Jeanne-Louise Rollinger undergraduate research internships
+* Fall 2019: [Centre Des Médias : Distinguer Le Vrai Du Faux Dans Le Flux D’Informations](http://formation.sciences-po.fr/enseignement/2019/bmet/27f04). - Bachelor Degree, Sciences Po Paris, Campus of Reims.
  
