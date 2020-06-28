@@ -27,6 +27,7 @@
 
 
 ## Guest Lecture
+* Spring 2020: Exercer son esprit critique à l'ère du numérique, Mooc Coursera, Université de Genève.
 
 * Fall 2019: [Centre Des Médias : Distinguer Le Vrai Du Faux Dans Le Flux D’Informations](http://formation.sciences-po.fr/enseignement/2019/bmet/27f04). - Bachelor Degree, Sciences Po Paris, Campus of Reims.
  
