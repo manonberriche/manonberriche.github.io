@@ -34,8 +34,6 @@
 
 ## Interventions and Presentations
 
-* **Berriche, M**.(2020, June 10). Exercer son esprit critique à l'ère du numérique, Mooc, *Université de Genève*.
-
 * **Berriche**, M. (2020, March 10). Démarche Scientifique et Éducation aux Médias à l'Information. *Centre pour l'éducation aux médias et à l'information (Clemi)*, *Académie de Lille*.
 
 * **Berriche**, M. (2020, February 6). La Réception Médiatiques à l'Ère de la Désinformation. *Centre pour l'éducation aux médias et à l'information (Clemi)*.
