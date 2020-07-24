@@ -17,6 +17,8 @@
 
 ## Articles
 
+* **Berriche**, M. & Altay, S. (2020) [“Sister I Love You!” Facebook users engage more with social posts than health misinformation.](http://blogs.biomedcentral.com/on-society/2020/07/22/sister-i-love-you-facebook-users-engage-more-with-social-posts-than-health-misinformation/). *BMC On Society*.
+
 *  **Berriche**, M., & Altay, S. (2020). [Fact-check : trois infox sur les infox](https://theconversation.com/fact-check-trois-infox-sur-les-infox-136809). *The Conversation*.
 
 * **Berriche**, M. (2020). [From fake news’ URLs to their reception IRL #InRealLife](https://www.sciencespo.fr/research/cogito/home/fake-news-from-urls-to-their-reception-inreallife/?lang=en). *Cogito n°8. Le Magazine de la Recherche de Sciences Po*.
