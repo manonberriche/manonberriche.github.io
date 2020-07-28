@@ -10,14 +10,16 @@
 -----------------
 # Research
 -----------------
+x = For these publications, the name order is alphabetical (according to the publishers' instructions).
 
 ## Articles
 
 * **Berriche**, M., & Altay, S. (2020). [Internet Users Engage More With Phatic Posts Than With Health Misinformation On Facebook](https://doi.org/10.1057/s41599-020-0452-1). *Palgrave Communications*, 6(1), 1-9.
 
-* **Berriche**, M. (2019). [From A Social Experiment To A Public Educational Policy: A Long Journey](https://hal.archives-ouvertes.fr/hal-02527164/document). *Sciences Po Review of Public Affairs*, 3, 121-125.
 
 ## Book Chapters
+
+* x **Berriche**, M., Do, S., & Tainturier, B. (Forthcoming). Consentir et critiquer : les réactions de la population française face à la crise de la COVID-19 sur Twitter. Presses de Sciences Po. *
 
 * Cardon, D., & **Berriche**, M. (In Preparation). Fake news panic. Circuits et chemins de l’information dans l’espace public numérique.
 
@@ -32,13 +34,12 @@
 
 * **Berriche**, M. (In Preparation). Not born yesterday. The science of who we trust and what we believe. (Hugo Mercier). *Réseaux*.
 
+
 ## Work in progress
 
 * From Polarization To Argumentation: The Case  Of The Vaccination Debate On Facebook
 
-* Epistemic Vigilance In The Digital Age 
-
-* Du consensus à la critique : évolution des réactions à la crise du Covid-19 dans l’espace public français 
+* Beyond content: How different contextual cues modulate engagement with fake news 
 
 
 ## Conference Presentations
