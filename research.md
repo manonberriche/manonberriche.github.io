@@ -19,7 +19,7 @@ x = For these publications, the name order is alphabetical (according to the pub
 
 ## Book Chapters
 
-* **Berriche**, M., Do, S., & Tainturier, B. (Forthcoming). Consentir et critiquer : les réactions de la population française face à la crise de la COVID-19 sur Twitter. Presses de Sciences Po. x
+* x **Berriche**, M., Do, S., & Tainturier, B. (Forthcoming). Consentir et critiquer : les réactions de la population française face à la crise de la COVID-19 sur Twitter. Presses de Sciences Po. 
 
 * Cardon, D., & **Berriche**, M. (In Preparation). Fake news panic. Circuits et chemins de l’information dans l’espace public numérique.
 
