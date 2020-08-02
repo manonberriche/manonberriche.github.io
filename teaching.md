@@ -22,13 +22,17 @@
 
 ## Teaching Assistant
 
-* Fall 2018: [Digital Culture](http://formation.sciences-po.fr/enseignement/2018/bexp/23a00) - Bachelor Degree, Sciences Po Paris, Campus of Menton (teacher: [Dominique Cardon](https://medialab.sciencespo.fr/equipe/dominique-cardon/))
+* Fall 2018: [Digital Culture.](http://formation.sciences-po.fr/enseignement/2018/bexp/23a00)Bachelor Degree, Sciences Po Paris, Campus of Menton (teacher: [Dominique Cardon](https://medialab.sciencespo.fr/equipe/dominique-cardon/))
 
-* Fall 2018 and Spring 2019:  [Initiation to entrepreneurship](http://formation.sciences-po.fr/enseignement/2018/obus/2045) - Master Degree, Sciences Po Paris (teacher: [Jacques-Henri Eyraud](https://fr.wikipedia.org/wiki/Jacques-Henri_Eyraud))
+* Fall 2018 and Spring 2019:  [Initiation to entrepreneurship.](http://formation.sciences-po.fr/enseignement/2018/obus/2045) Master Degree, Sciences Po Paris (teacher: [Jacques-Henri Eyraud](https://fr.wikipedia.org/wiki/Jacques-Henri_Eyraud))
 
 
 ## Guest Lectures
-* Spring 2020: Exercer son esprit critique à l'ère du numérique. -  Mooc Coursera, Université de Genève.
 
-* Fall 2019: [Centre Des Médias : Distinguer Le Vrai Du Faux Dans Le Flux D’Informations](http://formation.sciences-po.fr/enseignement/2019/bmet/27f04). - Bachelor Degree, Sciences Po Paris, Campus of Reims.
+* Fall 2020: Integrathon Workshop. Promoting scientific integrity in teaching, research and informal supervision contexts. Science and Ethics
+research group, Geneva University.
+
+* Spring 2020: Exercer son esprit critique à l'ère du numérique. Mooc Coursera, Université de Genève.
+
+* Fall 2019: [Centre Des Médias : Distinguer Le Vrai Du Faux Dans Le Flux D’Informations](http://formation.sciences-po.fr/enseignement/2019/bmet/27f04). Bachelor Degree, Sciences Po Paris, Campus of Reims.
  
