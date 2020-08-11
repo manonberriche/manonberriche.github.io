@@ -10,7 +10,6 @@
 -----------------
 # Research
 -----------------
-x = For these publications, the name order is alphabetical (according to the publishers' instructions).
 
 ## Articles
 
@@ -19,12 +18,13 @@ x = For these publications, the name order is alphabetical (according to the pub
 
 ## Book Chapters
 
-* x **Berriche**, M., Do, S., & Tainturier, B. (Forthcoming). Consentir et critiquer : les réactions de la population française face à la crise de la COVID-19 sur Twitter. Presses de Sciences Po. 
+* **Berriche** x, M., Do x, S., & Tainturier x, B. (Forthcoming). Consentir et critiquer : les réactions de la population française face à la crise de la COVID-19 sur Twitter. Presses de Sciences Po. 
 
 * Cardon, D., & **Berriche**, M. (In Preparation). Fake news panic. Circuits et chemins de l’information dans l’espace public numérique.
 
 * Cardon, D., Cointet, J.P., Ooghe, B., Plique, G., & **Berriche**, M. (In Preparation). Cartographie de l'espace médiatique français.
 
+x = For these publications, the name order is alphabetical (according to the publishers' instructions).
 
 ## Book Reviews
 
@@ -33,7 +33,6 @@ x = For these publications, the name order is alphabetical (according to the pub
 * **Berriche**, M. (Forthcoming). Fact-checking vs fake news. Vérifier pour mieux informer. (Laurent Bigot). *Hermès, La Revue*.
 
 * **Berriche**, M. (In Preparation). Not born yesterday. The science of who we trust and what we believe. (Hugo Mercier). *Réseaux*.
-
 
 ## Work in progress
 
