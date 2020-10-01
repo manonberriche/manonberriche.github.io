@@ -18,7 +18,7 @@
 
 ## Book Chapters
 
-* **Berriche**, M., Do, S., & Tainturier, B. (Forthcoming). Consentir et critiquer : les réactions de la population française face à la crise de la COVID-19 sur Twitter. *Presses de Sciences Po*. 
+* **Berriche**, M., Do, S., & Tainturier, B. (In Press). "Consentir et critiquer : les réactions de la population française face à la crise de la COVID-19 sur Twitter"dans Marc Lazar, Guillaume Plantin et Xavier Ragot (dir.), Le Monde d'aujourd'hui. Les sciences sociales au temps de la Covid, Presses de Sciences Po, p.223-240.
 
 * Cardon, D., & **Berriche**, M. (In Preparation). Fake news panic. Circuits et chemins de l’information dans l’espace public numérique.
 
