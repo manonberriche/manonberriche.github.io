@@ -41,6 +41,8 @@
 
 ## Conference Presentations
 
+* **Berriche**, M. (2021). "T'as vérifié la source ? La vigilance du public face aux fake news à l'ère du numérique". *Colloque internationale : Journalisme et plateformes 2 : information, infomédiation et fake news*, IMSIC,EJCAM, Marseille, France, **Presentation**.
+
 * **Berriche**, M. (2020). "T'as vérifié la source ? La vigilance du public face aux fake news à l'ère du numérique". *Séminaire Transnum*, Sciences Po, Paris, France. **Presentation**.
 
 * **Berriche**, M. (2020). "What’s Your Source?” Lay People’s Arguments And Expertise In Reaction To Vaccination (Mis)information On Facebook. *4S/EASST*, Prague, Czech Republic. **Presentation**.
@@ -55,6 +57,8 @@ Normale, Supérieure, Paris, France. **Presentation & Poster**.
 
 
 ## Invited Talks
+
+* **Berriche**, M. (2020). La Controverse Vaccinale sur Facebook. *Journée d'études Désinformation espace public numérique.*Université de Neuchâtel, Académie du journalisme et des médias*
 
 * **Berriche**, M. & Altay, S. (2019). [La Désinformation en Santé dans les Médias](http://videos.assemblee-nationale.fr/video.8425833_5dcd0ebadfcb2.opecst--audition-publique-sur-l-hesitation-vaccinale--14-novembre-2019?fbclid=IwAR168oIvDON4YoY3oeGiFvOBbYw5OsTwACOUDnLxgKG3Cv9r2WV0n9l8uR4). Audition Publique. *Assemblée Nationale*.
 
