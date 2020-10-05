@@ -51,6 +51,8 @@
 * **Berriche**, M. (2019, February 15 ). « Fake news » Fausse Nouvelle : Histoire Et Décryptages. *Bibliothèque Nationale de France*.
 
 
-## Associative Project
+## Interviews
 
-* **Critical Thinking Club**: Co-founder of a group of discussion at the Center for Research and Interdisciplinarity to foster collaboration between  researchers, teachers, mediators, parents, etc. in order to work on research and educational projects related to critical thinking.
+* Slate (September, 2020). [De la «private joke» à la fake news, itinéraire d'une bien étrange histoire.] (https://korii.slate.fr/et-caetera/nagui-chevaux-course-au-clic-transforme-blague-rumeur-twitter-medias)
+
+
