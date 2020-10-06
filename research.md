@@ -13,6 +13,8 @@
 
 ## Articles
 
+* **Berriche**, M. (Submitted). "De PubMed à Marlène, ma soeur" : Une enquête sur les régimes probatoires mobilisés dans la controverse vaccinale sur Facebook.
+
 * **Berriche**, M., & Altay, S. (2020). [Internet Users Engage More With Phatic Posts Than With Health Misinformation On Facebook](https://doi.org/10.1057/s41599-020-0452-1). *Palgrave Communications*, 6(1), 1-9.
 
 * **Berriche**, M. (2019). [From A Social Experiment To A Public Educational Policy: A Long Journey](https://07c585f3-4b08-4437-97a8-39faf6aab3a2.filesusr.com/ugd/a93557_222a9611f8a045bf9d2254176b9b2ac9.pdf). *Sciences Po Review of Public Affairs*, (3), 121-125.
@@ -26,7 +28,9 @@
 
 * Beyond content: how contextual cues influence engagement with fake news on social media?
 
-* *"De PubMed à Marlène, ma soeur"* : Une enquête sur les régimes probatoires mobilisés dans la controverse vaccinale sur Facebook.
+* Understanding the sharing of fake news on Twitter
+
+* Go Viral!: A gamified “vaccine” against misinformation about COVID-19
 
 
 ## Conference Presentations
