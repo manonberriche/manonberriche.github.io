@@ -13,7 +13,7 @@
 
 ## Articles
 
-* **Berriche**, M. (Submitted). "De PubMed à Marlène, ma soeur" : Une enquête sur les régimes probatoires mobilisés dans la controverse vaccinale sur Facebook.
+* **Berriche**, M. (Under Review). "D'après PubMed et Marlène, ma soeur" : Une enquête sur les régimes probatoires mobilisés dans la controverse vaccinale sur Facebook.
 
 * **Berriche**, M., & Altay, S. (2020). [Internet Users Engage More With Phatic Posts Than With Health Misinformation On Facebook](https://doi.org/10.1057/s41599-020-0452-1). *Palgrave Communications*, 6(1), 1-9.
 
