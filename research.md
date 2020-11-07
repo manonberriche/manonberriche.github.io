@@ -22,11 +22,11 @@
 
 ## Book Chapters
 
-* **Berriche**, M., Do, S., & Tainturier, B. (In Press). "Consentir et critiquer : les réactions de la population française face à la crise de la COVID-19 sur Twitter"dans Marc Lazar, Guillaume Plantin et Xavier Ragot (dir.), Le Monde d'aujourd'hui. Les sciences sociales au temps de la Covid, Presses de Sciences Po, p.223-240.
+* **Berriche**, M., Do, S., & Tainturier, B. (2020). ["Consentir et critiquer : les réactions de la population française face à la crise de la COVID-19 sur Twitter"](https://www.cairn.info/load_pdf.php?ID_ARTICLE=SCPO_LAZAR_2020_01_0223&download=1) dans Marc Lazar, Guillaume Plantin et Xavier Ragot (dir.), Le Monde d'aujourd'hui. Les sciences sociales au temps de la Covid, Presses de Sciences Po, p.223-240.
 
 ## Work in progress
 
-* Beyond content: how contextual cues influence engagement with fake news on social media?
+* Beyond content: how humorous contextual cues modulate engagement with fake news on social media?
 
 * Understanding the sharing of fake news on Twitter
 
