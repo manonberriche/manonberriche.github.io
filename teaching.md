@@ -14,7 +14,7 @@
 
 ## Courses Taught
 
-* Fall 2019 ; 2020: [Culture et enjeux du numérique](http://formation.sciences-po.fr/enseignement/2019/BEXP/25F00) - Bachelor Degree, Sciences Po Paris
+* Fall 2019 | 2020: [Culture et enjeux du numérique](http://formation.sciences-po.fr/enseignement/2019/BEXP/25F00) - Bachelor Degree, Sciences Po Paris
 
 * Spring 2020: [Médias, réseaux sociaux et crise sanitaire au prisme de la sociologie numérique](https://dpa.hypotheses.org) - Master Degree, Université Gustave Eiffel
 
@@ -34,5 +34,6 @@ research group, Geneva University.
 
 * Spring 2020: Exercer son esprit critique à l'ère du numérique. Mooc Coursera, Université de Genève.
 
-* Fall 2019: [Centre Des Médias : Distinguer Le Vrai Du Faux Dans Le Flux D’Informations](http://formation.sciences-po.fr/enseignement/2019/bmet/27f04). Bachelor Degree, Sciences Po Paris, Campus of Reims.
+* Fall 2019 | 2020: [Centre Des Médias : Distinguer Le Vrai Du Faux Dans Le Flux D’Informations](http://formation.sciences-po.fr/enseignement/2019/bmet/27f04). Bachelor Degree, Sciences Po Paris, Campus of Reims.(teacher: Arnaud Muller) 
+
  
