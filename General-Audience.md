@@ -36,11 +36,11 @@
 
 ## Interventions and Presentations
 
+* **Berriche**, M. (2020, November 16). La Réception Médiatiques à l'Ère de la Désinformation. *Centre pour l'éducation aux médias et à l'information (Clemi)*.
+
 * **Berriche**, M. (2020, March 10). Démarche Scientifique et Éducation aux Médias à l'Information. *Centre pour l'éducation aux médias et à l'information (Clemi)*, *Académie de Lille*.
 
 * **Berriche**, M. (2020, February 6). La Réception Médiatiques à l'Ère de la Désinformation. *Centre pour l'éducation aux médias et à l'information (Clemi)*.
-
-* **Berriche**, M. (2019, November 15). Festival des Idées : Penser l'Incroyable. La Bellevilloise, *Radio Parleur*.
 
 * **Berriche**, M. (2019, October 29). La Désinformation : État Des Lieux Et Solutions. Séminaire interdisciplinaire “Esprit critique et médias : lutter contre la désinformation à l’école et ailleurs”. *Université de Strasbourg*.
 
@@ -53,6 +53,10 @@
 
 ## Interviews
 
-* Slate (September, 2020). [De la «private joke» à la fake news, itinéraire d'une bien étrange histoire.] (https://korii.slate.fr/et-caetera/nagui-chevaux-course-au-clic-transforme-blague-rumeur-twitter-medias)
+* RFI, émission l'Atelier des médias (2020, October 24). [Mark Zuckerberg, troisième homme de l'élection présidentielle américaine 2020?](https://www.rfi.fr/fr/podcasts/20201024-mark-zuckerberg-troisième-homme-l-élection-présidentielle-américaine-2020-12)
+
+* Slate (2020, September 23). [De la «private joke» à la fake news, itinéraire d'une bien étrange histoire.](https://korii.slate.fr/et-caetera/nagui-chevaux-course-au-clic-transforme-blague-rumeur-twitter-medias)
+
+* Radio Parleur (2019, November 15). [Contre les fake news : éduquer à l'information, critiquer les médias] (https://radioparleur.net/2019/11/20/fake-news-medias-education/)
 
 
