@@ -57,6 +57,6 @@
 
 * Slate (2020, September 23). [De la «private joke» à la fake news, itinéraire d'une bien étrange histoire.](https://korii.slate.fr/et-caetera/nagui-chevaux-course-au-clic-transforme-blague-rumeur-twitter-medias)
 
-* Radio Parleur (2019, November 15). [Contre les fake news : éduquer à l'information, critiquer les médias] (https://radioparleur.net/2019/11/20/fake-news-medias-education/)
+* Radio Parleur (2019, November 15). [Contre les fake news : éduquer à l'information, critiquer les médias](https://radioparleur.net/2019/11/20/fake-news-medias-education/)
 
 
