@@ -36,7 +36,7 @@
 
 ## Interventions and Presentations
 
-* **Berriche**, M. (2020, November 16). La Réception Médiatiques à l'Ère de la Désinformation. *Centre pour l'éducation aux médias et à l'information (Clemi)*.
+* **Berriche**, M. (2020, November 16). De la conversation à la vérification : la réception des infoxs de santé sur Facebook. *Centre pour l'éducation aux médias et à l'information (Clemi)*.
 
 * **Berriche**, M. (2020, March 10). Démarche Scientifique et Éducation aux Médias à l'Information. *Centre pour l'éducation aux médias et à l'information (Clemi)*, *Académie de Lille*.
 
