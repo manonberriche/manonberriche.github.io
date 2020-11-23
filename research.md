@@ -52,7 +52,7 @@ Normale, Supérieure, Paris, France. **Presentation & Poster**.
 
 ## Invited Talks
 
-* **Berriche**, M. (2020). La Controverse Vaccinale sur Facebook. *Journée d'études Désinformation espace public numérique*. Université de Neuchâtel, Académie du journalisme et des médias
+* **Berriche**, M. (2020). De la conversation à la vérification : la réception des infoxs de santé sur Facebook. *Journée d'études Désinformation espace public numérique*. Université de Neuchâtel, Académie du journalisme et des médias
 
 * **Berriche**, M. & Altay, S. (2019). [La Désinformation en Santé dans les Médias](http://videos.assemblee-nationale.fr/video.8425833_5dcd0ebadfcb2.opecst--audition-publique-sur-l-hesitation-vaccinale--14-novembre-2019?fbclid=IwAR168oIvDON4YoY3oeGiFvOBbYw5OsTwACOUDnLxgKG3Cv9r2WV0n9l8uR4). *Audition Publique*. Assemblée Nationale.
 
