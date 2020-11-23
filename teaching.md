@@ -14,7 +14,7 @@
 
 ## Courses Taught
 
-* Fall 2019 | 2020: [Culture et enjeux du numérique](http://formation.sciences-po.fr/enseignement/2019/BEXP/25F00) - Bachelor Degree, Sciences Po Paris
+* Fall 2019 ; 2020: [Culture et enjeux du numérique](http://formation.sciences-po.fr/enseignement/2019/BEXP/25F00) - Bachelor Degree, Sciences Po Paris
 
 * Spring 2020: [Médias, réseaux sociaux et crise sanitaire au prisme de la sociologie numérique](https://dpa.hypotheses.org) - Master Degree, Université Gustave Eiffel
 
@@ -24,16 +24,18 @@
 
 * Fall 2018: [Digital Culture.](http://formation.sciences-po.fr/enseignement/2018/bexp/23a00)Bachelor Degree, Sciences Po Paris, Campus of Menton (teacher: [Dominique Cardon](https://medialab.sciencespo.fr/equipe/dominique-cardon/))
 
-* Fall 2018 and Spring 2019:  [Initiation to entrepreneurship.](http://formation.sciences-po.fr/enseignement/2018/obus/2045) Master Degree, Sciences Po Paris (teacher: [Jacques-Henri Eyraud](https://fr.wikipedia.org/wiki/Jacques-Henri_Eyraud))
+* Fall 2018 ; Spring 2019:  [Initiation to entrepreneurship.](http://formation.sciences-po.fr/enseignement/2018/obus/2045) Master Degree, Sciences Po Paris (teacher: [Jacques-Henri Eyraud](https://fr.wikipedia.org/wiki/Jacques-Henri_Eyraud))
 
 
 ## Guest Lectures
+
+* Spring 2021: Sociologie numérique. Master Degree, Université Gustave Eiffel (teacher: Baptiste Kotras)
 
 * Fall 2020: Integrathon Workshop. Promoting scientific integrity in teaching, research and informal supervision contexts. Science and Ethics
 research group, Geneva University.
 
 * Spring 2020: Exercer son esprit critique à l'ère du numérique. Mooc Coursera, Université de Genève.
 
-* Fall 2019 | 2020: [Centre Des Médias : Distinguer Le Vrai Du Faux Dans Le Flux D’Informations](http://formation.sciences-po.fr/enseignement/2019/bmet/27f04). Bachelor Degree, Sciences Po Paris, Campus of Reims.(teacher: Arnaud Muller) 
+* Fall 2019 ; 2020: [Centre Des Médias : Distinguer Le Vrai Du Faux Dans Le Flux D’Informations](http://formation.sciences-po.fr/enseignement/2019/bmet/27f04). Bachelor Degree, Sciences Po Paris, Campus of Reims.(teacher: Arnaud Muller) 
 
  
