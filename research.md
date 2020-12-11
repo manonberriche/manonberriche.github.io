@@ -13,6 +13,8 @@
 
 ## Articles
 
+* Basol, M., Roozenbeeck, J., Berriche, M., Uenal, F., McClanahan, W., & Van der Linden, S.(Under Review). Towards psychological herd immunity: Cross-cultural evidence for two prebunking interventions against COVID-19 misinformation.
+
 * **Berriche**, M. (Under Review). "D'après PubMed et Marlène, ma soeur" : Une enquête sur les régimes probatoires mobilisés dans la controverse vaccinale sur Facebook.
 
 * **Berriche**, M., & Altay, S. (2020). [Internet Users Engage More With Phatic Posts Than With Health Misinformation On Facebook](https://doi.org/10.1057/s41599-020-0452-1). *Palgrave Communications*, 6(1), 1-9.
@@ -26,11 +28,9 @@
 
 ## Work in progress
 
-* Beyond content: how humorous contextual cues modulate engagement with fake news on social media?
-
 * Understanding the sharing of fake news on Twitter
 
-* Go Viral!: A gamified “vaccine” against misinformation about COVID-19
+* La libération de l’objectivité à l’ère de la désinformation
 
 
 ## Conference Presentations
