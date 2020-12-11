@@ -13,7 +13,7 @@
 
 ## Articles
 
-* Basol, M., Roozenbeeck, J., Berriche, M., Uenal, F., McClanahan, W., & Van der Linden, S.(Under Review). Towards psychological herd immunity: Cross-cultural evidence for two prebunking interventions against COVID-19 misinformation.
+* Basol, M., Roozenbeeck, J., **Berriche**, M., Uenal, F., McClanahan, W., & Van der Linden, S.(Under Review). Towards psychological herd immunity: Cross-cultural evidence for two prebunking interventions against COVID-19 misinformation.
 
 * **Berriche**, M. (Under Review). "D'après PubMed et Marlène, ma soeur" : Une enquête sur les régimes probatoires mobilisés dans la controverse vaccinale sur Facebook.
 
