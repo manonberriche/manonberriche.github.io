@@ -34,7 +34,7 @@
 * Fall 2020: Integrathon Workshop. Promoting scientific integrity in teaching, research and informal supervision contexts. Science and Ethics
 research group, Geneva University.
 
-* Spring 2020: Exercer son esprit critique à l'ère du numérique. Mooc Coursera, Université de Genève.
+* Spring 2020: [Exercer son esprit critique à l'ère du numérique](https://fr.coursera.org/lecture/esprit-critique/definir-le-terme-de-fake-news-entretien-avec-manon-berriche-xiSGS). Mooc Coursera, Université de Genève.
 
 * Fall 2019 ; 2020: [Centre Des Médias : Distinguer Le Vrai Du Faux Dans Le Flux D’Informations](http://formation.sciences-po.fr/enseignement/2019/bmet/27f04). Bachelor Degree, Sciences Po Paris, Campus of Reims.(teacher: Arnaud Muller) 
 
