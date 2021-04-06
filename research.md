@@ -13,10 +13,6 @@
 
 ## Articles
 
-* **Berriche**, M. (In Preparation). 
-
-* **Berriche**, M., Dolbeau, C., Jaubert-Michel, E., Georget, P. (In Preparation).
-
 * Basol, M., Roozenbeeck, J., **Berriche**, M., Uenal, F., McClanahan, W., & Van der Linden, S.(In Principle Acceptance). Towards psychological herd immunity: Cross-cultural evidence for two prebunking interventions against COVID-19 misinformation. *Big Data & Society*
 
 * **Berriche**, M. (In Principle Acceptance). "Ça coule de source !" : preuves et mises à l'épreuve des internautes dans la controverse vaccinale sur Facebook. *Politiques de Communication*
