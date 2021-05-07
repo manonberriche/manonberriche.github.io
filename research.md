@@ -67,9 +67,9 @@ Normale, Supérieure, Paris, France. **Presentation & Poster**.
 
 ## Book Reviews
 
-* **Berriche**, M. (Forthcoming). Culture numérique. (Dominique Cardon). *Hermès, La Revue*.
+* **Berriche**, M. (2021). [Culture numérique](https://www.cairn.info/revue-hermes-la-revue-2020-2-page-301.html). (Dominique Cardon). *Hermès, La Revue*.
 
-* **Berriche**, M. (Forthcoming). Fact-checking vs fake news. Vérifier pour mieux informer. (Laurent Bigot). *Hermès, La Revue*.
+* **Berriche**, M. (2021). [Fact-checking vs fake news. Vérifier pour mieux informer](https://www.cairn.info/revue-hermes-la-revue-2020-2-page-301.html). (Laurent Bigot). *Hermès, La Revue*.
 
 * **Berriche**, M. (In Revision). Not born yesterday. The science of who we trust and what we believe. (Hugo Mercier). *Réseaux*.
 
