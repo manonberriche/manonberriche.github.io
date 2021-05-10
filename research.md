@@ -56,6 +56,8 @@ Normale, Supérieure, Paris, France. **Presentation & Poster**.
 
 ## Invited Talks
 
+* **Berriche**, M. (Forthcoming). Fake news or fact-check ? That is not the question. *Webinar Good in tech* Institut Mines Télécom, Sciences Po.
+
 * **Berriche**, M. (2021). [La réception de fake news](https://peertube.forteza.fr/videos/watch/bfb0b270-9dc9-4898-9169-819b886b82e7). *Audition publique* Groupe de travail parlementaire de Paula Forteza et Matthieu Orphelin.
 
 * **Berriche**, M. (2020). De la conversation à la vérification : la réception des infoxs de santé sur Facebook. *Journée d'études Désinformation espace public numérique*. Université de Neuchâtel, Académie du journalisme et des médias
