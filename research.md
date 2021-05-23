@@ -15,7 +15,7 @@
 
 * **Berriche**, M. (Forthcoming). En quête de sources : preuves et mises à l'épreuve des internautes dans la controverse vaccinale sur Facebook. *Politiques de Communication*
 
-* Basol, M., Roozenbeeck, J., **Berriche**, M., Uenal, F., McClanahan, W., & Van der Linden, S.(Forthcoming). Towards psychological herd immunity: Cross-cultural evidence for two prebunking interventions against COVID-19 misinformation. *Big Data & Society*
+* Basol, M., Roozenbeeck, J., **Berriche**, M., Uenal, F., McClanahan, W., & Van der Linden, S.(2021). [Towards psychological herd immunity: Cross-cultural evidence for two prebunking interventions against COVID-19 misinformation](https://journals.sagepub.com/doi/abs/10.1177/20539517211013868). *Big Data & Society*
 
 * **Berriche**, M., & Altay, S. (2020). [Internet Users Engage More With Phatic Posts Than With Health Misinformation On Facebook](https://doi.org/10.1057/s41599-020-0452-1). *Palgrave Communications*, 6(1), 1-9.
 
@@ -56,7 +56,9 @@ Normale, Supérieure, Paris, France. **Presentation & Poster**.
 
 ## Invited Talks
 
-* **Berriche**, M. (Forthcoming). Fake news or fact-check ? That is not the question. *Webinar Good in tech* Institut Mines Télécom, Sciences Po.
+* **Berriche**, M. (2021). Fake news or fact-check ? That is not the question. *Séminaire LISIS* Laboratoire Interdisciplinaire Sciences Innovations Sociétés, Université Paris-Est Marne-la-Vallée
+
+* * **Berriche**, M. (2021). Fake news or fact-check ? That is not the question. *Webinar Good in tech* Institut Mines Télécom, Sciences Po.
 
 * **Berriche**, M. (2021). [La réception de fake news](https://peertube.forteza.fr/videos/watch/bfb0b270-9dc9-4898-9169-819b886b82e7). *Audition publique* Groupe de travail parlementaire de Paula Forteza et Matthieu Orphelin.
 
