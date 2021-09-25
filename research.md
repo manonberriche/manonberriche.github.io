@@ -37,9 +37,11 @@
 
 ## Conference Presentations
 
-* Dolbeau, C., **Berriche**, M., Jaubert-Michel, E., Georget, P. (2021). Perception des infox et mobilisation de l’esprit critique en temps de crise sanitaire. *Colloque internationale : Journalisme et plateformes*, IMSIC, EJCAM, Marseille, France, **Presentation**.
+* **Berriche**, M., Altay, S., Acerbi, A. (2021). Misinformation on Misinformation: A Critical Research Review. *MISDOOM*, Oxford Internet Institut (OII), Oxford, UK. **Presentation**.
 
-* **Berriche**, M. (2021). *"T'as vérifié la source ?"* La vigilance du public face aux fake news à l'ère du numérique". *Colloque internationale : Journalisme et plateformes*, IMSIC, EJCAM, Marseille, France, **Presentation**.
+* Dolbeau, C., **Berriche**, M., Jaubert-Michel, E., Georget, P. (2021). Perception des infox et mobilisation de l’esprit critique en temps de crise sanitaire. *Colloque internationale : Journalisme et plateformes*, IMSIC, EJCAM, Marseille, France. **Presentation**.
+
+* **Berriche**, M. (2021). *"T'as vérifié la source ?"* La vigilance du public face aux fake news à l'ère du numérique". *Colloque internationale : Journalisme et plateformes*, IMSIC, EJCAM, Marseille, France. **Presentation**.
 
 * **Berriche**, M. (2020). *"T'as vérifié la source ?"* La vigilance du public face aux fake news à l'ère du numérique". *Séminaire Transnum*, Sciences Po, Paris, France. **Presentation**.
 
@@ -58,7 +60,7 @@ Normale, Supérieure, Paris, France. **Presentation & Poster**.
 
 * **Berriche**, M. (2021). Fake news or fact-check ? That is not the question. *Séminaire LISIS* Laboratoire Interdisciplinaire Sciences Innovations Sociétés, Université Paris-Est Marne-la-Vallée
 
-* * **Berriche**, M. (2021). Fake news or fact-check ? That is not the question. *Webinar Good in tech* Institut Mines Télécom, Sciences Po.
+* **Berriche**, M. (2021). Fake news or fact-check ? That is not the question. *Webinar Good in tech* Institut Mines Télécom, Sciences Po.
 
 * **Berriche**, M. (2021). [La réception de fake news](https://peertube.forteza.fr/videos/watch/bfb0b270-9dc9-4898-9169-819b886b82e7). *Audition publique* Groupe de travail parlementaire de Paula Forteza et Matthieu Orphelin.
 
