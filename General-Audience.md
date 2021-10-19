@@ -31,7 +31,7 @@
 
 * **Berriche**, M. (2019). ["Fake news" et santé : des internautes pas si crédules](https://theconversation.com/fake-news-et-sante-des-internautes-pas-si-credules-118786). *The Conversation*.
 
-* **Berrich**e, M. (2018). [Pourquoi faut-il éviter d'utiliser le terme "fake news" ?](https://medium.com/@manonberriche/pourquoi-faut-il-éviter-dutiliser-le-terme-fake-news-8b837bda62fe). *Medium*
+* **Berriche**, M. (2018). [Pourquoi faut-il éviter d'utiliser le terme "fake news" ?](https://medium.com/@manonberriche/pourquoi-faut-il-éviter-dutiliser-le-terme-fake-news-8b837bda62fe). *Medium*
 
 
 ## Interventions and Presentations
