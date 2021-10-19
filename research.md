@@ -14,7 +14,7 @@
 ## Articles
 
 * **Berriche**, M. (2021). [En quête de sources: Preuves et mises à l’épreuve des internautes dans la controverse vaccinale sur Facebook](https://www.cairn.info/revue-politiques-de-communication-2021-1-page-115.htm). *Politiques de communication*, 16, 115-154.
-* 
+
 
 * Basol, M., Roozenbeeck, J., **Berriche**, M., Uenal, F., McClanahan, W., & Van der Linden, S.(2021). [Towards psychological herd immunity: Cross-cultural evidence for two prebunking interventions against COVID-19 misinformation](https://journals.sagepub.com/doi/abs/10.1177/20539517211013868). *Big Data & Society*, 8(1).
 
