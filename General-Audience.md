@@ -36,6 +36,8 @@
 
 ## Interventions and Presentations
 
+* **Berriche**, M. (2021, September 17). [La science face aux fake news](https://www.youtube.com/watch?v=DPgK4JdcVvw). *Université Fédérale de Toulouse*, *Dépêche Midi-Libre*.
+
 * **Berriche**, M. (2020, November 16). De la conversation à la vérification : la réception des infoxs de santé sur Facebook. *Centre pour l'éducation aux médias et à l'information (Clemi)*.
 
 * **Berriche**, M. (2020, March 10). Démarche Scientifique et Éducation aux Médias à l'Information. *Centre pour l'éducation aux médias et à l'information (Clemi)*, *Académie de Lille*.
