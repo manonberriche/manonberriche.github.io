@@ -78,5 +78,5 @@ Normale, Supérieure, Paris, France. **Presentation & Poster**.
 
 * **Berriche**, M. (2021). [Fact-checking vs fake news. Vérifier pour mieux informer](https://www.cairn.info/revue-hermes-la-revue-2020-2-page-301.html). (Laurent Bigot). *Hermès, La Revue*.
 
-* **Berriche**, M. (In Revision). Not born yesterday. The science of who we trust and what we believe. (Hugo Mercier). *Réseaux*.
+* **Berriche**, M. (Forthcoming). Not born yesterday. The science of who we trust and what we believe. (Hugo Mercier). *Réseaux*.
 
