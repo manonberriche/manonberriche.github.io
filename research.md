@@ -11,6 +11,12 @@
 # Research
 -----------------
 
+## Working Paper
+
+* Altay, S. †, **Berriche**, M. †, & Acerbi, A. (In progress). [Misinformation on Misinformation: Conceptual and Methodological Challenges](https://psyarxiv.com/edqc8).
+
+† denotes equal contribution
+
 ## Articles
 
 * **Berriche**, M. (2021). [En quête de sources: Preuves et mises à l’épreuve des internautes dans la controverse vaccinale sur Facebook](https://www.cairn.info/revue-politiques-de-communication-2021-1-page-115.htm). *Politiques de communication*, 16, 115-154.
