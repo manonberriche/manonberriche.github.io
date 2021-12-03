@@ -13,7 +13,7 @@
 
 ## Working Paper
 
-* Altay, S. †, **Berriche**, M. †, & Acerbi, A. (In progress). [Misinformation on Misinformation: Conceptual and Methodological Challenges](https://psyarxiv.com/edqc8).
+* Altay, S. †, **Berriche**, M. †, & Acerbi, A. (Under review). [Misinformation on Misinformation: Conceptual and Methodological Challenges](https://psyarxiv.com/edqc8).
 
 † denotes equal contribution
 
@@ -35,7 +35,7 @@
 
 ## Work in progress
 
-* Understanding the sharing of fake news on Twitter
+* Faker Island. Profiling fake news sharers on Twitter in France
 
 * Flagging information on Facebook
 
