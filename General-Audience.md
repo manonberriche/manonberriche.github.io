@@ -36,6 +36,8 @@
 
 ## Interventions and Presentations
 
+* **Berriche**, M. & Tainturier, B. (2021, December 6). [Mapping of the population on Twitter](https://npdj.fr/comptes-rendus/resilience/une-methode-scientifique-pour-identifier-les-pollueurs-du-debat-public-sur-twitter/). *NPDJ, Sciences Po, École de journalisme*
+
 * **Berriche**, M. (2021, September 17). [La science face aux fake news](https://www.youtube.com/watch?v=DPgK4JdcVvw). *Université Fédérale de Toulouse*, *Dépêche Midi-Libre*.
 
 * **Berriche**, M. (2020, November 16). De la conversation à la vérification : la réception des infoxs de santé sur Facebook. *Centre pour l'éducation aux médias et à l'information (Clemi)*.
