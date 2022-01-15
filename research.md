@@ -13,6 +13,8 @@
 
 ## Working Paper
 
+* Ramaciotti Morales, P., **Berriche**, M., & Cointet, J.-P. The geometry of misinformation: embedding Twitter networks of users who spread fake news in geometrical opinion spaces
+
 * Altay, S. †, **Berriche**, M. †, & Acerbi, A. (Under review). [Misinformation on Misinformation: Conceptual and Methodological Challenges](https://psyarxiv.com/edqc8).
 
 † denotes equal contribution
@@ -20,7 +22,6 @@
 ## Articles
 
 * **Berriche**, M. (2021). [En quête de sources: Preuves et mises à l’épreuve des internautes dans la controverse vaccinale sur Facebook](https://www.cairn.info/revue-politiques-de-communication-2021-1-page-115.htm). *Politiques de communication*, 16, 115-154.
-
 
 * Basol, M., Roozenbeeck, J., **Berriche**, M., Uenal, F., McClanahan, W., & Van der Linden, S.(2021). [Towards psychological herd immunity: Cross-cultural evidence for two prebunking interventions against COVID-19 misinformation](https://journals.sagepub.com/doi/abs/10.1177/20539517211013868). *Big Data & Society*, 8(1).
 
@@ -32,14 +33,6 @@
 ## Book Chapters
 
 * **Berriche**, M., Do, S., & Tainturier, B. (2020). ["Consentir et critiquer : les réactions de la population française face à la crise de la COVID-19 sur Twitter"](https://www.cairn.info/load_pdf.php?ID_ARTICLE=SCPO_LAZAR_2020_01_0223&download=1) dans Marc Lazar, Guillaume Plantin et Xavier Ragot (dir.), Le Monde d'aujourd'hui. Les sciences sociales au temps de la Covid, Presses de Sciences Po, p.223-240.
-
-## Work in progress
-
-* Faker Island. Profiling fake news sharers on Twitter in France
-
-* Flagging information on Facebook
-
-* Moral panic or infodemia? A case study on the documentary Hold-up 
 
 
 ## Conference Presentations
@@ -65,7 +58,7 @@ Normale, Supérieure, Paris, France. **Presentation & Poster**.
 
 ## Invited Talks
 
-* **Berriche**, M. (2021). Fake news or fact-check ? That is not the question. *Séminaire LISIS* Laboratoire Interdisciplinaire Sciences Innovations Sociétés, Université Paris-Est Marne-la-Vallée
+* **Berriche**, M. (2021). La réception des fake news à l'ère du numérique. *Séminaire LISIS* Laboratoire Interdisciplinaire Sciences Innovations Sociétés, Université Paris-Est Marne-la-Vallée
 
 * **Berriche**, M. (2021). Fake news or fact-check ? That is not the question. *Webinar Good in tech* Institut Mines Télécom, Sciences Po.
 
