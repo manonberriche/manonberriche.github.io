@@ -13,7 +13,7 @@
 
 ## Working Paper
 
-* Ramaciotti Morales, P., **Berriche**, M., & Cointet, J.-P. (Submitted). The geometry of misinformation: embedding Twitter networks of users who spread fake news in geometrical opinion spaces
+* Ramaciotti Morales, P., **Berriche**, M., & Cointet, J.-P. (Submitted). The geometry of misinformation: embedding Twitter networks of users who spread fake news in geometrical opinion spaces.
 
 * Altay, S. †, **Berriche**, M. †, & Acerbi, A. (Under review). [Misinformation on Misinformation: Conceptual and Methodological Challenges](https://psyarxiv.com/edqc8).
 
