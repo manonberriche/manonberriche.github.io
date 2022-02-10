@@ -58,9 +58,13 @@ Normale, Supérieure, Paris, France. **Presentation & Poster**.
 
 ## Invited Talks
 
-* **Berriche**, M. (2021). La réception des fake news à l'ère du numérique. *Séminaire LISIS* Laboratoire Interdisciplinaire Sciences Innovations Sociétés, Université Paris-Est Marne-la-Vallée
+* **Berriche**, M. (2022). Fake news : un regard depuis la sociologie. *Séminaire De Facto*, médialab, Sciences Po.
+* 
+* * **Berriche**, M. (2021). La réception des fake news à l'ère du numérique. *Séminaire LISIS*, Laboratoire Interdisciplinaire Sciences Innovations Sociétés, Université Paris-Est Marne-la-Vallée.
 
-* **Berriche**, M. (2021). Fake news or fact-check ? That is not the question. *Webinar Good in tech* Institut Mines Télécom, Sciences Po.
+* **Berriche**, M. & Cardon, D. (2021). Fake news or fact-check ? That is not the question. *Webinar Good in tech* Institut Mines Télécom, Sciences Po.
+
+* ** Berriche**, M. (2021). [Espace médiatique et fake news](https://www.sciencespo.fr/evenements/?event=fake-news-complotisme-ideologie-des-chaines-dinformation-pour-une-approche-pluridisciplinaire-des-medias). *Journée d'études LIEPP/Medialab*, Sciences Po.
 
 * **Berriche**, M. (2021). [La réception de fake news](https://peertube.forteza.fr/videos/watch/bfb0b270-9dc9-4898-9169-819b886b82e7). *Audition publique* Groupe de travail parlementaire de Paula Forteza et Matthieu Orphelin.
 
@@ -78,4 +82,6 @@ Normale, Supérieure, Paris, France. **Presentation & Poster**.
 * **Berriche**, M. (2021). [Fact-checking vs fake news. Vérifier pour mieux informer](https://www.cairn.info/revue-hermes-la-revue-2020-2-page-301.html). (Laurent Bigot). *Hermès, La Revue*.
 
 * **Berriche**, M. (Forthcoming). Not born yesterday. The science of who we trust and what we believe. (Hugo Mercier). *Réseaux*.
+
+* **Berriche**, M. (In Preparation). Breaking the social media prism. (Chris Bail). *Réseaux*.
 
