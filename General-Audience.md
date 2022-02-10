@@ -50,12 +50,14 @@
 
 * Yesilaltay, S., & **Berriche**, M. (2019, October 12-13). La Psychologie Des « Fake News ». *École Normale Supérieure*.
 
-* Cardon, D., & **Berriche**, M. (2019, October 11). Parcours Éducatifs : Les Veilleurs De L'Info. *La Ligue de l'Enseignement et France TV Éducation*.
+* **Berriche**, M. (2019, October 11). Parcours Éducatifs : Les Veilleurs De L'Info. *La Ligue de l'Enseignement et France TV Éducation*.
 
 * **Berriche**, M. (2019, February 15 ). « Fake news » Fausse Nouvelle : Histoire Et Décryptages. *Bibliothèque Nationale de France*.
 
 
 ## Interviews
+
+* Magazine Sciences Humaines (2022, Janvier). Comment lutter contre les fake news.
 
 * RFI, émission l'Atelier des médias (2020, October 24). [Mark Zuckerberg, troisième homme de l'élection présidentielle américaine 2020?](https://www.rfi.fr/fr/podcasts/20201024-mark-zuckerberg-troisième-homme-l-élection-présidentielle-américaine-2020-12)
 
