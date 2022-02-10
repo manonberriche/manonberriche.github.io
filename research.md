@@ -59,8 +59,8 @@ Normale, Supérieure, Paris, France. **Presentation & Poster**.
 ## Invited Talks
 
 * **Berriche**, M. (2022). Fake news : un regard depuis la sociologie. *Séminaire De Facto*, médialab, Sciences Po.
-* 
-* * **Berriche**, M. (2021). La réception des fake news à l'ère du numérique. *Séminaire LISIS*, Laboratoire Interdisciplinaire Sciences Innovations Sociétés, Université Paris-Est Marne-la-Vallée.
+
+* **Berriche**, M. (2021). La réception des fake news à l'ère du numérique. *Séminaire LISIS*, Laboratoire Interdisciplinaire Sciences Innovations Sociétés, Université Paris-Est Marne-la-Vallée.
 
 * **Berriche**, M. & Cardon, D. (2021). Fake news or fact-check ? That is not the question. *Webinar Good in tech* Institut Mines Télécom, Sciences Po.
 
