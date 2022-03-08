@@ -37,6 +37,8 @@
 
 ## Conference Presentations
 
+* **Berriche**, M., Crosset, V., Cardon, D. (2022).(Mis)information reception. From top-down moral concerns to bottom-up practical rationality. *ICA*.
+
 * **Berriche**, M., Altay, S., Acerbi, A. (2021). Misinformation on Misinformation: A Critical Research Review. *MISDOOM*, Oxford Internet Institut (OII), Oxford, UK. **Presentation**.
 
 * Dolbeau, C., **Berriche**, M., Jaubert-Michel, E., Georget, P. (2021). Perception des infox et mobilisation de l’esprit critique en temps de crise sanitaire. *Colloque internationale : Journalisme et plateformes*, IMSIC, EJCAM, Marseille, France. **Presentation**.
@@ -58,13 +60,15 @@ Normale, Supérieure, Paris, France. **Presentation & Poster**.
 
 ## Invited Talks
 
+* **Berriche**, M. (2022). Fausses informations et transformations de l'espace public numérique : de quelques controverses récentes et actuelles sur les réseaux sociaux. *Colloque VIGIE*, Université de Tours.
+
 * **Berriche**, M. (2022). Fake news : un regard depuis la sociologie. *Séminaire De Facto*, médialab, Sciences Po.
 
 * **Berriche**, M. (2021). La réception des fake news à l'ère du numérique. *Séminaire LISIS*, Laboratoire Interdisciplinaire Sciences Innovations Sociétés, Université Paris-Est Marne-la-Vallée.
 
 * **Berriche**, M. & Cardon, D. (2021). Fake news or fact-check ? That is not the question. *Webinar Good in tech* Institut Mines Télécom, Sciences Po.
 
-* ** Berriche**, M. (2021). [Espace médiatique et fake news](https://www.sciencespo.fr/evenements/?event=fake-news-complotisme-ideologie-des-chaines-dinformation-pour-une-approche-pluridisciplinaire-des-medias). *Journée d'études LIEPP/Medialab*, Sciences Po.
+* **Berriche**, M. (2021). [Espace médiatique et fake news](https://www.sciencespo.fr/evenements/?event=fake-news-complotisme-ideologie-des-chaines-dinformation-pour-une-approche-pluridisciplinaire-des-medias). *Journée d'études LIEPP-Medialab*, Sciences Po.
 
 * **Berriche**, M. (2021). [La réception de fake news](https://peertube.forteza.fr/videos/watch/bfb0b270-9dc9-4898-9169-819b886b82e7). *Audition publique* Groupe de travail parlementaire de Paula Forteza et Matthieu Orphelin.
 
