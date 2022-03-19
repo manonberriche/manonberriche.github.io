@@ -57,12 +57,14 @@
 
 ## Interviews
 
-* Magazine Sciences Humaines (2022, Janvier). Comment lutter contre les fake news.
+* Magazine Sciences Humaines (2022, April). [Complotisme, désinformation, rumeurs - Comment lutter ?](https://www.scienceshumaines.com/complotisme-desinformation-rumeurs-comment-lutter_fr_831.htm)
 
-* RFI, émission l'Atelier des médias (2020, October 24). [Mark Zuckerberg, troisième homme de l'élection présidentielle américaine 2020?](https://www.rfi.fr/fr/podcasts/20201024-mark-zuckerberg-troisième-homme-l-élection-présidentielle-américaine-2020-12)
+* Les Échos (2022, March 22). [la mesure de l'influence des fake news.]
+
+* RFI, émission l'Atelier des médias (2020, October 24). [Mark Zuckerberg, troisième homme de l'élection présidentielle américaine 2020 ?](https://www.rfi.fr/fr/podcasts/20201024-mark-zuckerberg-troisième-homme-l-élection-présidentielle-américaine-2020-12)
 
 * Slate (2020, September 23). [De la «private joke» à la fake news, itinéraire d'une bien étrange histoire.](https://korii.slate.fr/et-caetera/nagui-chevaux-course-au-clic-transforme-blague-rumeur-twitter-medias)
 
-* Radio Parleur (2019, November 15). [Contre les fake news : éduquer à l'information, critiquer les médias](https://radioparleur.net/2019/11/20/fake-news-medias-education/)
+* Radio Parleur (2019, November 15). [Contre les fake news : éduquer à l'information, critiquer les médias.](https://radioparleur.net/2019/11/20/fake-news-medias-education/)
 
 
