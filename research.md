@@ -13,9 +13,9 @@
 
 ## Working Papers
 
-* Ramaciotti Morales, P., **Berriche**, M., & Cointet, J.-P. (Submitted). The geometry of misinformation: embedding Twitter networks of users who spread fake news in geometrical opinion spaces.
+* Ramaciotti Morales, P., **Berriche**, M., & Cointet, J.-P. (Under revision). The geometry of misinformation: embedding Twitter networks of users who spread fake news in geometrical opinion spaces.
 
-* Altay, S. †, **Berriche**, M. †, & Acerbi, A. (Under review). [Misinformation on Misinformation: Conceptual and Methodological Challenges](https://psyarxiv.com/edqc8).
+* Altay, S. †, **Berriche**, M. †, & Acerbi, A. (Under revision). [Misinformation on Misinformation: Conceptual and Methodological Challenges](https://psyarxiv.com/edqc8).
 
 † denotes equal contribution
 
@@ -35,9 +35,11 @@
 * **Berriche**, M., Do, S., & Tainturier, B. (2020). ["Consentir et critiquer : les réactions de la population française face à la crise de la COVID-19 sur Twitter"](https://www.cairn.info/load_pdf.php?ID_ARTICLE=SCPO_LAZAR_2020_01_0223&download=1) dans Marc Lazar, Guillaume Plantin et Xavier Ragot (dir.), Le Monde d'aujourd'hui. Les sciences sociales au temps de la Covid, Presses de Sciences Po, p.223-240.
 
 
-## Conference Presentations
+## Conference 
 
-* **Berriche**, M., Crosset, V., Cardon, D. (2022).(Mis)information reception. From top-down moral concerns to bottom-up practical rationality. *ICA*.
+*  Ramaciotti Morales, P., **Berriche**, M., & Cointet, J.-P. (2022). Fake news diffusion in geometrical attitudinal spaces. In 8th International Conference on Computational Social Sciences. *ICCSII*
+
+* **Berriche**, M., Crosset, V., Cardon, D. (2022).(Mis)information reception. From top-down moral concerns to bottom-up practical rationality. *ICA*. 
 
 * **Berriche**, M., Altay, S., Acerbi, A. (2021). Misinformation on Misinformation: A Critical Research Review. *MISDOOM*, Oxford Internet Institut (OII), Oxford, UK. **Presentation**.
 
@@ -51,8 +53,8 @@
 
 * **Berriche**, M. (2020). A Social Network Analysis To Study The Argumentative Interactions Between Pro And Anti-Vaxxers On Facebook. *International Network For Social Network Analysis (Sunbelt)*, Paris, France. **Presentation**.
 
-* **Berriche**, M. & Altay, S. (canceled). *« Salut ! Comment Tu Vas ? »* Quand Les Énoncés Phatiques Ont
-Plus De Succès Que Les Infoxs De Santé Sur Facebook. *Colloque des jeunes chercheurs (Fresco)*, École
+* **Berriche**, M. & Altay, S. (canceled). *« Salut ! Comment Tu Vas ? »* Quand les énoncés phatiques ont
+plus de succès que les infoxs sur Facebook. *Colloque des jeunes chercheurs (Fresco)*, École
 Normale, Supérieure, Paris, France. **Presentation & Poster**.
 
 * **Berriche**, M. & Altay, S. (2020). Positive Attitude! Audience Engages More With Positive And Phatic Posts Than With Health Misinformation On Facebook. *Research on Online Political Hostility (ROPH)*, Aarhus, Denmark. **Poster**.
@@ -60,15 +62,19 @@ Normale, Supérieure, Paris, France. **Presentation & Poster**.
 
 ## Invited Talks
 
+* **Berriche**, M. (2022). Les dynamiques idéologiques derrière le partage de fake news. *séminaire Sciences sociales du complotisme*
+
+* **Berriche**, M. (2022). Les dynamiques idéologiques derrière le partage de fake news. *Cyle de conférence Comportements d’information et de désinformation à l’ère numérique*, Université d'Angers
+
 * **Berriche**, M. (2022). Fausses informations et transformations de l'espace public numérique : de quelques controverses récentes et actuelles sur les réseaux sociaux. *Colloque VIGIE*, Université de Tours.
 
 * **Berriche**, M. (2022). Fake news : un regard depuis la sociologie. *Séminaire De Facto*, médialab, Sciences Po.
 
 * **Berriche**, M. (2021). La réception des fake news à l'ère du numérique. *Séminaire LISIS*, Laboratoire Interdisciplinaire Sciences Innovations Sociétés, Université Paris-Est Marne-la-Vallée.
 
-* **Berriche**, M. & Cardon, D. (2021). Fake news or fact-check ? That is not the question. *Webinar Good in tech* Institut Mines Télécom, Sciences Po.
+* **Berriche**, M. (2021). Fake news or fact-check ? That is not the question. *Webinar Good in tech* Institut Mines Télécom, Sciences Po.
 
-* **Berriche**, M. (2021). [Espace médiatique et fake news](https://www.sciencespo.fr/evenements/?event=fake-news-complotisme-ideologie-des-chaines-dinformation-pour-une-approche-pluridisciplinaire-des-medias). *Journée d'études LIEPP-Medialab*, Sciences Po.
+* **Berriche**, M. & Cardon, D. (2021). [Espace médiatique et fake news](https://www.sciencespo.fr/evenements/?event=fake-news-complotisme-ideologie-des-chaines-dinformation-pour-une-approche-pluridisciplinaire-des-medias). *Journée d'études LIEPP-Medialab*, Sciences Po.
 
 * **Berriche**, M. (2021). [La réception de fake news](https://peertube.forteza.fr/videos/watch/bfb0b270-9dc9-4898-9169-819b886b82e7). *Audition publique* Groupe de travail parlementaire de Paula Forteza et Matthieu Orphelin.
 
