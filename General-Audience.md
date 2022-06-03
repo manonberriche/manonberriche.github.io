@@ -59,7 +59,7 @@
 
 * Magazine Sciences Humaines (2022, April). [Complotisme, désinformation, rumeurs - Comment lutter ?](https://www.scienceshumaines.com/complotisme-desinformation-rumeurs-comment-lutter_fr_831.htm)
 
-* Les Échos (2022, March 22). [la mesure de l'influence des fake news.]
+* Les Échos (2022, March 22). la mesure de l'influence des fake news.
 
 * RFI, émission l'Atelier des médias (2020, October 24). [Mark Zuckerberg, troisième homme de l'élection présidentielle américaine 2020 ?](https://www.rfi.fr/fr/podcasts/20201024-mark-zuckerberg-troisième-homme-l-élection-présidentielle-américaine-2020-12)
 
