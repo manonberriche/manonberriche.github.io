@@ -11,11 +11,11 @@
 # Research
 -----------------
 
-## Working Papers
+## Forthcoming
 
-* Ramaciotti Morales, P., **Berriche**, M., & Cointet, J.-P. (Under revision). The geometry of misinformation: embedding Twitter networks of users who spread fake news in geometrical opinion spaces.
+* Ramaciotti Morales, P., **Berriche**, M., & Cointet, J.-P. (2023). [The geometry of misinformation: embedding Twitter networks of users who spread fake news in geometrical opinion spaces](https://hal.archives-ouvertes.fr/hal-03725556/document). In International Conference on Web and Social Sciences ICWSM. AAAI (accepted, to be publised) 
 
-* Altay, S. †, **Berriche**, M. †, & Acerbi, A. (Under revision). [Misinformation on Misinformation: Conceptual and Methodological Challenges](https://psyarxiv.com/edqc8).
+* Altay, S. †, **Berriche**, M. †, & Acerbi, A.  [Misinformation on Misinformation: Conceptual and Methodological Challenges](https://psyarxiv.com/edqc8). *Social Media + Society*.
 
 † denotes equal contribution
 
