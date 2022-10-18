@@ -11,6 +11,10 @@
 # Research
 -----------------
 
+## Working Papers
+
+* **Berriche**, M. (In preparation) Enquête au collège. Les jeunes reçoivent-ils et partagent-ils des (fausses) informations dans toutes les situations ?
+
 ## Forthcoming
 
 * Ramaciotti Morales, P., **Berriche**, M., & Cointet, J.-P. (2023). [The geometry of misinformation: embedding Twitter networks of users who spread fake news in geometrical opinion spaces](https://hal.archives-ouvertes.fr/hal-03725556/document). In International Conference on Web and Social Sciences ICWSM. AAAI (accepted, to be publised) 
