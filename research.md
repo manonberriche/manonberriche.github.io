@@ -17,13 +17,11 @@
 
 ## Forthcoming
 
-* Ramaciotti Morales, P., **Berriche**, M., & Cointet, J.-P. (2023). [The geometry of misinformation: embedding Twitter networks of users who spread fake news in geometrical opinion spaces](https://hal.archives-ouvertes.fr/hal-03725556/document). In International Conference on Web and Social Sciences ICWSM. AAAI (accepted, to be publised) 
-
 * Altay, S. †, **Berriche**, M. †, & Acerbi, A.  [Misinformation on Misinformation: Conceptual and Methodological Challenges](https://psyarxiv.com/edqc8). *Social Media + Society*.
 
 † denotes equal contribution
 
-## Articles
+## Articles in peer-reviewed journals
 
 * **Berriche**, M. (2021). [En quête de sources: Preuves et mises à l’épreuve des internautes dans la controverse vaccinale sur Facebook](https://www.cairn.info/revue-politiques-de-communication-2021-1-page-115.htm). *Politiques de communication*, 16, 115-154.
 
@@ -32,6 +30,10 @@
 * **Berriche**, M., & Altay, S. (2020). [Internet Users Engage More With Phatic Posts Than With Health Misinformation On Facebook](https://doi.org/10.1057/s41599-020-0452-1). *Palgrave Communications*, 6(1), 1-9.
 
 * **Berriche**, M. (2019). [From A Social Experiment To A Public Educational Policy: A Long Journey](https://07c585f3-4b08-4437-97a8-39faf6aab3a2.filesusr.com/ugd/a93557_222a9611f8a045bf9d2254176b9b2ac9.pdf). *Sciences Po Review of Public Affairs*, (3), 121-125.
+
+## Articles in proceedings of peer-reviewed conferences
+
+* Ramaciotti Morales, P., **Berriche**, M., & Cointet, J.-P. (2023). [The geometry of misinformation: embedding Twitter networks of users who spread fake news in geometrical opinion spaces](https://hal.archives-ouvertes.fr/hal-03725556/document). In International Conference on Web and Social Sciences ICWSM. AAAI.
 
 
 ## Book Chapters
