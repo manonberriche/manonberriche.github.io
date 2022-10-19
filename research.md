@@ -13,7 +13,7 @@
 
 ## Working Papers
 
-* **Berriche**, M. (In preparation) Enquête au collège. Les jeunes reçoivent-ils et partagent-ils des (fausses) informations dans toutes les situations ?
+* **Berriche**, M. (Under Review) Enquête au collège. Les jeunes reçoivent-ils et partagent-ils des (fausses) informations dans toutes les situations ?
 
 ## Forthcoming
 
