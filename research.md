@@ -13,7 +13,9 @@
 
 ## Working Papers
 
-* **Berriche**, M. (Under Review) Enquête au collège. Les jeunes reçoivent-ils et partagent-ils des (fausses) informations dans toutes les situations ?
+* **Berriche**, M. (In Revision). Enquête au collège. Les jeunes reçoivent-ils et partagent-ils des (fausses) informations dans toutes les situations ?
+
+* **Berriche**, M., Cointet, J.P., Hacquin, A.S., Altay, S., Mazoyer, B., Ooghe-Tabanou, B., Mercier, H., Cardon, D. (In Preparation). Faker Island. Who are the rare users who share fake news on the French Twittersphere? 
 
 ## Forthcoming
 
