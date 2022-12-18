@@ -20,6 +20,8 @@ I am a PhD candidate in media studies at the [médialab of Sciences Po Paris](ht
 ## And I am also on: 
 
 
+* [Mastodon)(https://mastodon.world/@manonberriche)
+
 * [Twitter](https://twitter.com/berriche_manon)
 
 * [Google Scholar](https://scholar.google.com/citations?user=vWrBYa4AAAAJ&hl=fr&oi=ao)
@@ -28,6 +30,6 @@ I am a PhD candidate in media studies at the [médialab of Sciences Po Paris](ht
 
 * [Linkedin](https://www.linkedin.com/in/manon-berriche)
 
-* [Instagram](https://www.instagram.com/manonberriche)
+
 
 
