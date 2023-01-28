@@ -17,13 +17,12 @@
 
 * **Berriche**, M., Cointet, J.P., Hacquin, A.S., Altay, S., Mazoyer, B., Ooghe-Tabanou, B., Mercier, H., Cardon, D. (In Preparation). Faker Island. Who are the rare users who share fake news on the French Twittersphere? 
 
-## Forthcoming
-
-* Altay, S. †, **Berriche**, M. †, & Acerbi, A.  [Misinformation on Misinformation: Conceptual and Methodological Challenges](https://psyarxiv.com/edqc8). *Social Media + Society*.
-
-† denotes equal contribution
 
 ## Articles in peer-reviewed journals
+
+* Altay, S. †, **Berriche**, M. †, & Acerbi, A. (2023). [Misinformation on Misinformation: Conceptual and Methodological Challenges](https://journals.sagepub.com/doi/full/10.1177/20563051221150412#bibr15-20563051221150412). *Social Media + Society*.
+
+† denotes equal contribution
 
 * **Berriche**, M. (2021). [En quête de sources: Preuves et mises à l’épreuve des internautes dans la controverse vaccinale sur Facebook](https://www.cairn.info/revue-politiques-de-communication-2021-1-page-115.htm). *Politiques de communication*, 16, 115-154.
 
