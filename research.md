@@ -13,7 +13,7 @@
 
 ## Working Papers
 
-* **Berriche**, M. (In Revision). Enquête au collège. Les jeunes reçoivent-ils et partagent-ils des (fausses) informations dans toutes les situations ?
+* **Berriche**, M. (Forthcoming). Enquête au collège. Les adolescents reçoivent-ils et partagent-ils des (fausses) informations dans toutes les situations ?
 
 * **Berriche**, M., Cointet, J.P., Hacquin, A.S., Altay, S., Mazoyer, B., Ooghe-Tabanou, B., Mercier, H., Cardon, D. (In Preparation). Faker Island. Who are the rare users who share fake news on the French Twittersphere? 
 
@@ -100,5 +100,5 @@ Normale, Supérieure, Paris, France. **Presentation & Poster**.
 
 * **Berriche**, M. (2022). [Not born yesterday. The science of who we trust and what we believe](https://www.cairn.info/revue-reseaux-2022-2-page-302.htm). (Hugo Mercier). *Réseaux*.
 
-* **Berriche**, M. (In Preparation). Breaking the social media prism. (Chris Bail). *Réseaux*.
+* **Berriche**, M. (Forthcoming). Breaking the social media prism. (Chris Bail). *Réseaux*.
 
