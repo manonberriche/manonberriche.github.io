@@ -15,6 +15,8 @@
 
 * **Berriche**, M. (Forthcoming). Enquête au collège. Les adolescents reçoivent-ils et partagent-ils des (fausses) informations dans toutes les situations ?
 
+* Altay, S.,  **Berriche**, M.,  Farkas, J., Heuer, H., & Rathje, H. (Under revision). A Survey of Expert Views on Misinformation: Definitions, Determinants, Solutions, and Future of the Field.
+
 * **Berriche**, M., Cointet, J.P., Hacquin, A.S., Altay, S., Mazoyer, B., Ooghe-Tabanou, B., Mercier, H., Cardon, D. (In Preparation). Faker Island. Who are the rare users who share fake news on the French Twittersphere? 
 
 
