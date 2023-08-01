@@ -15,16 +15,16 @@
 
 * **Berriche**, M. (Forthcoming). Enquête au collège. Les adolescents reçoivent-ils et partagent-ils des (fausses) informations dans toutes les situations ?
 
-* Altay, S.,  **Berriche**, M.,  Farkas, J., Heuer, H., & Rathje, H. (Under revision). A Survey of Expert Views on Misinformation: Definitions, Determinants, Solutions, and Future of the Field.
-
 * **Berriche**, M., Cointet, J.P., Hacquin, A.S., Altay, S., Mazoyer, B., Ooghe-Tabanou, B., Mercier, H., Cardon, D. (In Preparation). Faker Island. Who are the rare users who share fake news on the French Twittersphere? 
 
 
 ## Articles in peer-reviewed journals
 
-* Altay, S. †, **Berriche**, M. †, & Acerbi, A. (2023). [Misinformation on Misinformation: Conceptual and Methodological Challenges](https://journals.sagepub.com/doi/full/10.1177/20563051221150412#bibr15-20563051221150412). *Social Media + Society*.
-
 † denotes equal contribution
+
+* Altay, S.,  **Berriche**, M.,  Farkas, J., Heuer, H., & Rathje, H. (2023). [A Survey of Expert Views on Misinformation: Definitions, Determinants, Solutions, and Future of the Field](https://misinforeview.hks.harvard.edu/article/a-survey-of-expert-views-on-misinformation-definitions-determinants-solutions-and-future-of-the-field/). *HKS Misinformation Review*.
+
+* Altay, S. †, **Berriche**, M. †, & Acerbi, A. (2023). [Misinformation on Misinformation: Conceptual and Methodological Challenges](https://journals.sagepub.com/doi/full/10.1177/20563051221150412#bibr15-20563051221150412). *Social Media + Society*.
 
 * **Berriche**, M. (2021). [En quête de sources: Preuves et mises à l’épreuve des internautes dans la controverse vaccinale sur Facebook](https://www.cairn.info/revue-politiques-de-communication-2021-1-page-115.htm). *Politiques de communication*, 16, 115-154.
 
@@ -81,7 +81,7 @@ Normale, Supérieure, Paris, France. **Presentation & Poster**.
 
 * **Berriche**, M. (2021). La réception des fake news à l'ère du numérique. *Séminaire LISIS*, Laboratoire Interdisciplinaire Sciences Innovations Sociétés, Université Paris-Est Marne-la-Vallée.
 
-* **Berriche**, M. (2021). Fake news or fact-check ? That is not the question. *Webinar Good in tech* Institut Mines Télécom, Sciences Po.
+* **Berriche**, M. (2021). Fake news or fact-check? That is not the question. *Webinar Good in tech* Institut Mines Télécom, Sciences Po.
 
 * **Berriche**, M. & Cardon, D. (2021). [Espace médiatique et fake news](https://www.sciencespo.fr/evenements/?event=fake-news-complotisme-ideologie-des-chaines-dinformation-pour-une-approche-pluridisciplinaire-des-medias). *Journée d'études LIEPP-Medialab*, Sciences Po.
 
