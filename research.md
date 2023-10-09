@@ -44,29 +44,36 @@
 * **Berriche**, M., Do, S., & Tainturier, B. (2020). ["Consentir et critiquer : les réactions de la population française face à la crise de la COVID-19 sur Twitter"](https://www.cairn.info/load_pdf.php?ID_ARTICLE=SCPO_LAZAR_2020_01_0223&download=1) dans Marc Lazar, Guillaume Plantin et Xavier Ragot (dir.), Le Monde d'aujourd'hui. Les sciences sociales au temps de la Covid, Presses de Sciences Po, p.223-240.
 
 
+## Report
+
+* Luneau, A., **Berriche**, M., Cardon, D., Cointet, J.-P., Lenoir, T., Mazoyer, B., Mogoutov, A., Tari, T. [L’expertise sanitaire à l’épreuve des espaces
+publics numériques](https://www.anses.fr/fr/system/files/Rapport-Anses-Medialab-SciencesPo.pdf). *Anses*
+
 ## Conference 
 
-*  Ramaciotti Morales, P., **Berriche**, M., & Cointet, J.-P. (2022). Fake news diffusion in geometrical attitudinal spaces. In 8th International Conference on Computational Social Sciences. *ICCSII*
+*  Ramaciotti Morales, P., **Berriche**, M., & Cointet, J.-P. (2022). The geometry of misinformation: embedding Twitter networks of users who spread fake news in geometrical opinion spaces. *ICWSM*
+
+*  Ramaciotti Morales, P., **Berriche**, M., & Cointet, J.-P. (2022). Fake news diffusion in geometrical attitudinal spaces. *ICCSII*
 
 * **Berriche**, M., Crosset, V., Cardon, D. (2022).(Mis)information reception. From top-down moral concerns to bottom-up practical rationality. *ICA*. 
 
-* **Berriche**, M., Altay, S., Acerbi, A. (2021). Misinformation on Misinformation: A Critical Research Review. *MISDOOM*, Oxford Internet Institut (OII), Oxford, UK. **Presentation**.
+* **Berriche**, M., Altay, S., Acerbi, A. (2021). Misinformation on Misinformation: A Critical Research Review. *MISDOOM*, Oxford Internet Institut (OII), Oxford, UK. 
 
-* Dolbeau, C., **Berriche**, M., Jaubert-Michel, E., Georget, P. (2021). Perception des infox et mobilisation de l’esprit critique en temps de crise sanitaire. *Colloque internationale : Journalisme et plateformes*, IMSIC, EJCAM, Marseille, France. **Presentation**.
+* Dolbeau, C., **Berriche**, M., Jaubert-Michel, E., Georget, P. (2021). Perception des infox et mobilisation de l’esprit critique en temps de crise sanitaire. *Colloque internationale : Journalisme et plateformes*, IMSIC, EJCAM, Marseille, France. 
 
-* **Berriche**, M. (2021). *"T'as vérifié la source ?"* La vigilance du public face aux fake news à l'ère du numérique". *Colloque internationale : Journalisme et plateformes*, IMSIC, EJCAM, Marseille, France. **Presentation**.
+* **Berriche**, M. (2021). *"T'as vérifié la source ?"* La vigilance du public face aux fake news à l'ère du numérique". *Colloque internationale : Journalisme et plateformes*, IMSIC, EJCAM, Marseille, France. 
 
-* **Berriche**, M. (2020). *"T'as vérifié la source ?"* La vigilance du public face aux fake news à l'ère du numérique". *Séminaire Transnum*, Sciences Po, Paris, France. **Presentation**.
+* **Berriche**, M. (2020). *"T'as vérifié la source ?"* La vigilance du public face aux fake news à l'ère du numérique". *Séminaire Transnum*, Sciences Po, Paris, France. 
 
-* **Berriche**, M. (2020). *"What’s Your Source?”* Lay People’s Arguments And Expertise In Reaction To Vaccination (Mis)information On Facebook. *4S/EASST*, Prague, Czech Republic. **Presentation**.
+* **Berriche**, M. (2020). *"What’s Your Source?”* Lay People’s Arguments And Expertise In Reaction To Vaccination (Mis)information On Facebook. *4S/EASST*, Prague, Czech Republic. 
 
-* **Berriche**, M. (2020). A Social Network Analysis To Study The Argumentative Interactions Between Pro And Anti-Vaxxers On Facebook. *International Network For Social Network Analysis (Sunbelt)*, Paris, France. **Presentation**.
+* **Berriche**, M. (2020). A Social Network Analysis To Study The Argumentative Interactions Between Pro And Anti-Vaxxers On Facebook. *International Network For Social Network Analysis (Sunbelt)*, Paris, France. 
 
 * **Berriche**, M. & Altay, S. (canceled). *« Salut ! Comment Tu Vas ? »* Quand les énoncés phatiques ont
 plus de succès que les infoxs sur Facebook. *Colloque des jeunes chercheurs (Fresco)*, École
-Normale, Supérieure, Paris, France. **Presentation & Poster**.
+Normale, Supérieure, Paris, France. 
 
-* **Berriche**, M. & Altay, S. (2020). Positive Attitude! Audience Engages More With Positive And Phatic Posts Than With Health Misinformation On Facebook. *Research on Online Political Hostility (ROPH)*, Aarhus, Denmark. **Poster**.
+* **Berriche**, M. & Altay, S. (2020). Positive Attitude! Audience Engages More With Positive And Phatic Posts Than With Health Misinformation On Facebook. *Research on Online Political Hostility (ROPH)*, Aarhus, Denmark. 
 
 
 ## Invited Talks
