@@ -33,6 +33,8 @@
 
 ## Guest Lectures
 
+* Fall 2023: Sociologie de la réception. Master Degree, Celsa
+
 * Spring 2021: Sociologie numérique. Master Degree, Université Gustave Eiffel (teacher: Baptiste Kotras)
 
 * Fall 2020: Integrathon Workshop. Promoting scientific integrity in teaching, research and informal supervision contexts. Science and Ethics
