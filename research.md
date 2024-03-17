@@ -106,5 +106,5 @@ Normale, Supérieure, Paris, France. **Presentation & Poster**.
 
 * **Berriche**, M. (2022). [Not born yesterday. The science of who we trust and what we believe](https://www.cairn.info/revue-reseaux-2022-2-page-302.htm). (Hugo Mercier). *Réseaux*.
 
-* **Berriche**, M. (Forthcoming). Breaking the social media prism. (Chris Bail). *Réseaux*.
+* **Berriche**, M. (2023). [Breaking the social media prism](https://www.cairn.info/revue-reseaux-2023-5-page-321.htm). (Chris Bail). *Réseaux*.
 
