@@ -13,7 +13,9 @@
 
 ## Working Papers
 
-* **Berriche**, M. (Forthcoming). Enquête au collège. Les adolescents reçoivent-ils et partagent-ils des (fausses) informations dans toutes les situations ?
+* **Berriche**, M. "Tu crois que c'est vrai ?". De l'élargissement de la critique à son évaporation.
+
+* * **Berriche**, M. Du partage de fake news à son évitement. Saisir les oscillations des régimes d'énonciation des utilisateurs des réseaux sociaux selon leur intégration dans l'espace politique.
 
 * **Berriche**, M., Cointet, J.P., Hacquin, A.S., Altay, S., Mazoyer, B., Ooghe-Tabanou, B., Mercier, H., Cardon, D. (In Preparation). Faker Island. Who are the rare users who share fake news on the French Twittersphere? 
 
@@ -21,6 +23,8 @@
 ## Articles in peer-reviewed journals
 
 † denotes equal contribution
+
+* **Berriche**, M. (2023).[La réception et le partage de (fausses) informations par les adolescents : des pratiques situées](https://lesenjeux.univ-grenoble-alpes.fr/2023/supplement-a/05-la-reception-et-le-partage-de-fausses-informations-par-les-adolescents-des-pratiques-situees/). *Les enjeuxs de l'information et de la communication*.
 
 * Altay, S.,  **Berriche**, M.,  Farkas, J., Heuer, H., & Rathje, H. (2023). [A Survey of Expert Views on Misinformation: Definitions, Determinants, Solutions, and Future of the Field](https://misinforeview.hks.harvard.edu/article/a-survey-of-expert-views-on-misinformation-definitions-determinants-solutions-and-future-of-the-field/). *HKS Misinformation Review*.
 
