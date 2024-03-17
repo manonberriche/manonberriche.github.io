@@ -15,7 +15,7 @@
 
 * **Berriche**, M. "Tu crois que c'est vrai ?". De l'élargissement de la critique à son évaporation.
 
-* * **Berriche**, M. Du partage de fake news à son évitement. Saisir les oscillations des régimes d'énonciation des utilisateurs des réseaux sociaux selon leur intégration dans l'espace politique.
+* **Berriche**, M. Du partage de fake news à son évitement. Saisir les oscillations des régimes d'énonciation des utilisateurs des réseaux sociaux selon leur intégration dans l'espace politique.
 
 * **Berriche**, M., Cointet, J.P., Hacquin, A.S., Altay, S., Mazoyer, B., Ooghe-Tabanou, B., Mercier, H., Cardon, D. (In Preparation). Faker Island. Who are the rare users who share fake news on the French Twittersphere? 
 
