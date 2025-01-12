@@ -2,7 +2,7 @@
 
 -----------------
 
-## [Research](research.md) • [Teaching](teaching.md) • [Science Popularization](General-Audience.md) • [Resume](https://drive.google.com/file/d/1syRqm-ya3dwk69_t_84dEMdOoiHAiZBB/view?usp=sharing)
+## [Research](research.md) • [Teaching](teaching.md) • [Science Popularization](General-Audience.md) • [Resume](https://drive.google.com/file/d/1UwkuyM8tl4AkzG5pzdHz4dQbBdUNdDKx/view?usp=sharing)
 
 -----------------
 
@@ -19,6 +19,8 @@ I am a PhD candidate in media studies at the [médialab of Sciences Po Paris](ht
 
 ## And I am also on: 
 
+
+* [Bluesky](https://app.bsky.cz/profile/manonberriche.bsky.social)
 
 * [Mastodon](https://mastodon.world/@manonberriche)
 
