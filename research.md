@@ -2,7 +2,7 @@
 
 -----------------
 
-## [Home](https://manonberriche.github.io/) • [Teaching](https://manonberriche.github.io/teaching.html) • [Science Popularization](https://manonberriche.github.io/General-Audience.html) • [Resume](https://drive.google.com/file/d/1syRqm-ya3dwk69_t_84dEMdOoiHAiZBB/view?usp=sharing) 
+## [Home](https://manonberriche.github.io/) • [Teaching](https://manonberriche.github.io/teaching.html) • [Science Popularization](https://manonberriche.github.io/General-Audience.html) • [Resume](https://drive.google.com/file/d/1YGm5_7Ei0vzjp0rMSacVXW1EbhimQbPG/view?usp=sharing)
 
 -----------------
 
