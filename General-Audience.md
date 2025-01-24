@@ -1,5 +1,3 @@
------------------
-
 ## [Home](https://manonberriche.github.io/) • [Research](research.md) • [Teaching](teaching.md) • [Resume](https://drive.google.com/file/d/1syRqm-ya3dwk69_t_84dEMdOoiHAiZBB/view?usp=sharing)
 
 -----------------
