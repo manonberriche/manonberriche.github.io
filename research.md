@@ -12,11 +12,11 @@
 
 ## Working Papers
 
-* **Berriche**, M. "Tu crois que c'est vrai ?". De l'élargissement de la critique à son évaporation.
+* **Berriche**, M. "Tu crois que c'est vrai ?". Fake news et autorégulation conversationnelle dans l'espace public numérique.
 
 * **Berriche**, M. Du partage de fake news à son évitement. Saisir les oscillations des régimes d'énonciation des utilisateurs des réseaux sociaux selon leur intégration dans l'espace politique.
 
-* **Berriche**, M., Cointet, J.P., Hacquin, A.S., Altay, S., Mazoyer, B., Ooghe-Tabanou, B., Mercier, H., Cardon, D. (In Preparation). Faker Island. Who are the rare users who share fake news on the French Twittersphere? 
+* **Berriche**, M., Cointet, J.P., Hacquin, A.S., Altay, S., Mazoyer, B., Ooghe-Tabanou, B., Mercier, H., Cardon, D. Faker Island. Who are the rare users who share fake news on the French Twittersphere? 
 
 
 ## Articles in peer-reviewed journals
@@ -27,7 +27,7 @@
 
 * Altay, S.,  **Berriche**, M.,  Farkas, J., Heuer, H., & Rathje, H. (2023). [A Survey of Expert Views on Misinformation: Definitions, Determinants, Solutions, and Future of the Field](https://misinforeview.hks.harvard.edu/article/a-survey-of-expert-views-on-misinformation-definitions-determinants-solutions-and-future-of-the-field/). *HKS Misinformation Review*.
 
-* Altay, S. †, **Berriche**, M. †, & Acerbi, A. (2023). [Misinformation on Misinformation: Conceptual and Methodological Challenges](https://journals.sagepub.com/doi/full/10.1177/20563051221150412#bibr15-20563051221150412). *Social Media + Society*.
+* Altay, S. †, **†Berriche, M. †**, & Acerbi, A. (2023). [Misinformation on Misinformation: Conceptual and Methodological Challenges](https://journals.sagepub.com/doi/full/10.1177/20563051221150412#bibr15-20563051221150412). *Social Media + Society*.
 
 * **Berriche**, M. (2021). [En quête de sources: Preuves et mises à l’épreuve des internautes dans la controverse vaccinale sur Facebook](https://www.cairn.info/revue-politiques-de-communication-2021-1-page-115.htm). *Politiques de communication*, 16, 115-154.
 
@@ -41,6 +41,11 @@
 
 * Ramaciotti Morales, P., **Berriche**, M., & Cointet, J.-P. (2023). [The geometry of misinformation: embedding Twitter networks of users who spread fake news in geometrical opinion spaces](https://hal.archives-ouvertes.fr/hal-03725556/document). In International Conference on Web and Social Sciences ICWSM. AAAI.
 
+
+## Institutional Report
+
+Luneau, A., **Berriche**, M., Cardon, D., Cointet, J. P., Lenoir, T., Mazoyer, B., Mogoutov, A., & Tari, T.
+(2024). [L'expertise sanitaire à l'épreuve des espaces publics numériques](https://sciencespo.hal.science/hal-04676063v1/file/expertise%20sanitaire%20-%20medialab%20-%202024.pdf). ANSES.
 
 ## Book Chapters
 
