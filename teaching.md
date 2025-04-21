@@ -12,6 +12,8 @@
 
 ## Courses Taught
 
+* Spring 2025 : Analyse de controverses scientifiques et techniques, Bachelor Degree, Université Gustave Eiffel, ESIEE Paris.
+
 * Fall 2022 : [Grandes enquêtes sociologiques](https://www.sciencespo.fr/departement-sociologie/fr/content/les-enseignements-de-sociologie-en-college-universitaire.html) - Bachelor Degree, Sciences Po Paris
 
 * Fall 2019 ; 2020 ; 2021 ; 2022 : [Culture et enjeux du numérique](http://formation.sciences-po.fr/enseignement/2019/BEXP/25F00) - Bachelor Degree, Sciences Po Paris
