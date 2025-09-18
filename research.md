@@ -12,11 +12,17 @@
 
 ## Working Papers
 
+† denotes equal contribution
+
 * **Berriche**, M., Cointet, J.P., Hacquin, A.S., Altay, S., Mazoyer, B., Ooghe-Tabanou, B., Mercier, H., Cardon, D. [Faker Island. Profiling misinformation sharers on the French Twittersphere using a matching procedure](https://docs.google.com/document/d/1HRU4y2lZIKqK7kZQm0aoBcF5Lb9B7jKMDbA-f4iL9fY/edit?pli=1&tab=t.0#heading=h.pgyffd4ac4wj)
 
 * Crépel, M., Mazoyer, B., Ooghe-Tabanou, B., Plique, G., Cointet, J. P., Parasie, S., ... & **Berriche**, M. [Une cartographie web de l'écosystème médiatique français](https://sciencespo.hal.science/hal-05094289/file/medialab_Data_Paper_Corpus_Media_V1.2.pdf).
   
-* **Berriche**, M. "Tu crois que c'est vrai ?". Fake news et autorégulation conversationnelle dans l'espace public numérique.
+* **Berriche, M. †**, Nouri, C. †, Clavel, C., Cointet, J.-P. Stopping Points in Online Conversations: Annotated Corpus,
+Guidelines and Baseline Models for Detecting Critical Interventions
+on Social Media.
+
+* **Berriche**, M. "Tu crois que c'est vrai ?". Fake news, points d'arrêt et autorégulation conversationnelle dans l'espace public numérique.
 
 * **Berriche**, M. Du partage de fake news à son évitement. Saisir les oscillations des régimes d'énonciation des utilisateurs des réseaux sociaux selon leur intégration dans l'espace politique.
 
