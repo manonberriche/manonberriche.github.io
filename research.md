@@ -18,9 +18,8 @@
 
 * Crépel, M., Mazoyer, B., Ooghe-Tabanou, B., Plique, G., Cointet, J. P., Parasie, S., ... & **Berriche**, M. [Une cartographie web de l'écosystème médiatique français](https://sciencespo.hal.science/hal-05094289v3/document).
   
-* **Berriche, M. †**, Nouri, C. †, Clavel, C., Cointet, J.-P. Stopping Points in Online Conversations: Annotated Corpus,
-Guidelines and Baseline Models for Detecting Critical Interventions
-on Social Media.
+* **Berriche, M. †**, Nouri, C. †, Clavel, C., Cointet, J.-P. [Stopping Points in Online Conversations: Annotated Corpus,
+Guidelines and Baseline Models for Detecting Critical Interventions on Social Media](https://drive.google.com/file/d/1_B3TTPYlWylSunn3unvQlDyMlTTZfgsf/view?usp=sharing).
 
 * **Berriche**, M. "Tu crois que c'est vrai ?". Fake news, points d'arrêt et autorégulation conversationnelle dans l'espace public numérique.
 
