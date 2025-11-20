@@ -15,8 +15,6 @@
 † denotes equal contribution
 
 * **Berriche**, M., Cointet, J.P., Hacquin, A.S., Altay, S., Mazoyer, B., Ooghe-Tabanou, B., Mercier, H., Cardon, D. [Faker Island. Profiling misinformation sharers on the French Twittersphere using a matching procedure](https://docs.google.com/document/d/1HRU4y2lZIKqK7kZQm0aoBcF5Lb9B7jKMDbA-f4iL9fY/edit?pli=1&tab=t.0#heading=h.pgyffd4ac4wj)
-
-* Crépel, M., Mazoyer, B., Ooghe-Tabanou, B., Plique, G., Cointet, J. P., Parasie, S., ... & **Berriche**, M. [Une cartographie web de l'écosystème médiatique français](https://sciencespo.hal.science/hal-05094289v3/document).
   
 * **Berriche, M. †**, Nouri, C. †, Clavel, C., Cointet, J.-P. [Stopping Points in Online Conversations: Annotated Corpus,
 Guidelines and Baseline Models for Detecting Critical Interventions on Social Media](https://drive.google.com/file/d/1_B3TTPYlWylSunn3unvQlDyMlTTZfgsf/view?usp=sharing).
@@ -29,6 +27,8 @@ Guidelines and Baseline Models for Detecting Critical Interventions on Social Me
 ## Articles in peer-reviewed journals
 
 † denotes equal contribution
+
+* Crépel, M., Mazoyer, B., Ooghe-Tabanou, B., Plique, G., Cointet, J. P., Parasie, S., ... & **Berriche**, M. (À paraître). [Une cartographie web de l'écosystème médiatique français](https://sciencespo.hal.science/hal-05094289v3/document). *Data & Corpus*.
 
 * **Berriche**, M. (2023).[La réception et le partage de (fausses) informations par les adolescents : des pratiques situées](https://lesenjeux.univ-grenoble-alpes.fr/2023/supplement-a/05-la-reception-et-le-partage-de-fausses-informations-par-les-adolescents-des-pratiques-situees/). *Les enjeuxs de l'information et de la communication*.
 
