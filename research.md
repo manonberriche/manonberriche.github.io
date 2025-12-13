@@ -21,14 +21,14 @@ Guidelines and Baseline Models for Detecting Critical Interventions on Social Me
 
 * **Berriche**, M. "Tu crois que c'est vrai ?". Fake news, points d'arrêt et autorégulation conversationnelle dans l'espace public numérique.
 
-* **Berriche**, M. Du partage de fake news à son évitement. Saisir les oscillations des régimes d'énonciation des utilisateurs des réseaux sociaux selon leur intégration dans l'espace politique.
+* **Berriche**, M. Du partage de fake news à son évitement. Intégration dans l'espace politique et prudence énonciative.
 
 
 ## Articles in peer-reviewed journals
 
 † denotes equal contribution
 
-* Crépel, M., Mazoyer, B., Ooghe-Tabanou, B., Plique, G., Cointet, J. P., Parasie, S., ... & **Berriche**, M. (À paraître). [Une cartographie web de l'écosystème médiatique français](https://sciencespo.hal.science/hal-05094289v3/document). *Data & Corpus*.
+* Crépel, M., Mazoyer, B., Ooghe-Tabanou, B., Plique, G., Cointet, J. P., Parasie, S., ... & **Berriche**, M. (2025). [Une cartographie web de l'écosystème médiatique français](https://sciencespo.hal.science/hal-05094289v4/document). *Data & Corpus*.
 
 * **Berriche**, M. (2023).[La réception et le partage de (fausses) informations par les adolescents : des pratiques situées](https://lesenjeux.univ-grenoble-alpes.fr/2023/supplement-a/05-la-reception-et-le-partage-de-fausses-informations-par-les-adolescents-des-pratiques-situees/). *Les enjeuxs de l'information et de la communication*.
 
