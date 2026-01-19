@@ -2,7 +2,7 @@
 
 -----------------
 
-## [Home](https://manonberriche.github.io/) • [Research](research.md) • [Science Popularization](General-Audience.md) • [Resume](https://drive.google.com/file/d/1YGm5_7Ei0vzjp0rMSacVXW1EbhimQbPG/view?usp=sharing)
+## [Home](https://manonberriche.github.io/) • [Research](research.md) • [Science Popularization](General-Audience.md) • [Resume](https://drive.google.com/file/d/1JATjWrKkYpk9u3-3uW0hhmA7NJvyXXNt/view?usp=sharing)
 
 -----------------
 
@@ -45,3 +45,4 @@ research group, Geneva University.
 * Fall 2019 ; 2020: [Centre Des Médias : Distinguer Le Vrai Du Faux Dans Le Flux D’Informations](http://formation.sciences-po.fr/enseignement/2019/bmet/27f04). Bachelor Degree, Sciences Po Paris, Campus of Reims.(teacher: Arnaud Muller) 
 
  
+
