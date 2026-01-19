@@ -3,7 +3,6 @@
 -----------------
 
 ## [Home](https://manonberriche.github.io/) • [Teaching](https://manonberriche.github.io/teaching.html) • [Science Popularization](https://manonberriche.github.io/General-Audience.html) • [Resume](https://drive.google.com/file/d/1JATjWrKkYpk9u3-3uW0hhmA7NJvyXXNt/view?usp=sharing)
-
 -----------------
 
 -----------------
