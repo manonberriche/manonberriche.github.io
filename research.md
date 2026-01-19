@@ -14,7 +14,7 @@
 
 † denotes equal contribution
 
-* **Berriche**, M., Cointet, J.P., Hacquin, A.S., Altay, S., Mazoyer, B., Ooghe-Tabanou, B., Mercier, H., Cardon, D. [Faker Island. Profiling misinformation sharers on the French Twittersphere using a matching procedure]([https://docs.google.com/document/d/1HRU4y2lZIKqK7kZQm0aoBcF5Lb9B7jKMDbA-f4iL9fY/edit?pli=1&tab=t.0#heading=h.pgyffd4ac4wj](https://drive.google.com/file/d/1snmaUAMNd0e_FV3jIplJZLqp4tNxEveH/view?usp=sharing)
+* **Berriche**, M., Cointet, J.P., Hacquin, A.S., Altay, S., Mazoyer, B., Ooghe-Tabanou, B., Mercier, H., Cardon, D. [Faker Island. Profiling misinformation sharers on the French Twittersphere using a matching procedure](https://drive.google.com/file/d/1snmaUAMNd0e_FV3jIplJZLqp4tNxEveH/view?usp=sharing)
   
 * **Berriche, M. †**, Nouri, C. †, Clavel, C., Cointet, J.-P. [Stopping Points in Online Conversations: Annotated Corpus,
 Guidelines and Baseline Models for Detecting Critical Interventions on Social Media](https://drive.google.com/file/d/1_B3TTPYlWylSunn3unvQlDyMlTTZfgsf/view?usp=sharing).
