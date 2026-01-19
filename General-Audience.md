@@ -2,7 +2,7 @@
 
 -----------------
 
-## [Home](https://manonberriche.github.io/) • [Research](research.md) • [Teaching](teaching.md) • [Resume]([https://drive.google.com/file/d/1YGm5_7Ei0vzjp0rMSacVXW1EbhimQbPG/view?usp=sharing](https://drive.google.com/file/d/1JATjWrKkYpk9u3-3uW0hhmA7NJvyXXNt/view?usp=sharing)
+## [Home](https://manonberriche.github.io/) • [Research](research.md) • [Teaching](teaching.md) • [Resume](https://drive.google.com/file/d/1YGm5_7Ei0vzjp0rMSacVXW1EbhimQbPG/view?usp=sharing](https://drive.google.com/file/d/1JATjWrKkYpk9u3-3uW0hhmA7NJvyXXNt/view?usp=sharing)
 
 -----------------
 
@@ -64,6 +64,7 @@
 * Slate (2020, September 23). [De la «private joke» à la fake news, itinéraire d'une bien étrange histoire.](https://korii.slate.fr/et-caetera/nagui-chevaux-course-au-clic-transforme-blague-rumeur-twitter-medias)
 
 * Radio Parleur (2019, November 15). [Contre les fake news : éduquer à l'information, critiquer les médias.](https://radioparleur.net/2019/11/20/fake-news-medias-education/)
+
 
 
 
