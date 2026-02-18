@@ -15,7 +15,7 @@
 
 * **Berriche**, M., Cointet, J.P., Hacquin, A.S., Altay, S., Mazoyer, B., Ooghe-Tabanou, B., Mercier, H., Cardon, D. (Under review)[Faker Island. Profiling misinformation sharers on the French Twittersphere using a matching procedure](https://drive.google.com/file/d/1snmaUAMNd0e_FV3jIplJZLqp4tNxEveH/view?usp=sharing).
 
-Langlais, P.C., Claesson, A., Berriche, M., Mogoutov, A, Cointet J.P. (Under review)[Legibot: A comprehensive theory-driven annotated corpus and SLM for French legislative data](https://drive.google.com/file/d/1lAcBOuPrNLJPuF-RKH-Yi_ocPQpXl46u/view)
+* Langlais, P.C., Claesson, A., **Berriche**, M., Mogoutov, A, Cointet J.P. (Under review)[Legibot: A comprehensive theory-driven annotated corpus and SLM for French legislative data](https://drive.google.com/file/d/1lAcBOuPrNLJPuF-RKH-Yi_ocPQpXl46u/view)
 
 * **Berriche**, M. "Tu crois que c'est vrai ?". Fake news, points d'arrêt et autorégulation conversationnelle dans l'espace public numérique.
 
@@ -50,7 +50,7 @@ Guidelines and Baseline Models for Detecting Critical Interventions on Social Me
 
 ## Institutional Report
 
-Luneau, A., **Berriche**, M., Cardon, D., Cointet, J. P., Lenoir, T., Mazoyer, B., Mogoutov, A., & Tari, T.
+* Luneau, A., **Berriche**, M., Cardon, D., Cointet, J. P., Lenoir, T., Mazoyer, B., Mogoutov, A., & Tari, T.
 (2024). [L'expertise sanitaire à l'épreuve des espaces publics numériques](https://sciencespo.hal.science/hal-04676063v1/file/expertise%20sanitaire%20-%20medialab%20-%202024.pdf). ANSES.
 
 ## Book Chapters
