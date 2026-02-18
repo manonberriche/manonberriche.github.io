@@ -54,6 +54,21 @@
 
 ## Interviews
 
+* France Culture (2026, January 22). [Réseaux sociaux : qui diffuse les fake news ?](https://www.radiofrance.fr/franceculture/podcasts/les-chantiers-de-la-recherche/reseaux-sociaux-les-jeunes-sont-ils-les-premieres-victimes-des-fake-news-6111968)
+
+* TF1 (2025, August 19). ["C'est un fake ça, non ?" : attention aux fausses informations sur l'allocation de rentrée scolaire versée ce mardi](https://www.tf1info.fr/conso-argent/reportage-video-c-est-un-fake-ca-non-attention-aux-fausses-informations-sur-l-allocation-de-rentree-scolaire-2025-2389442.html) 
+
+* Media Connect (2025, May 21).  [Désinformation, malinformation et mésinformation : comment les distinguer ?] 
+(https://mediaconnect.com/desinformation-malinformation-et-mesinformation-comment-les-distinguer) 
+
+* TV5Monde (2025, January 31). [C'est quoi la post-vérité ?](https://information.tv5monde.com/chronique/vrai-dire/cest-quoi-la-post-verite-2761140)
+
+* SqoolTV (2025, January 22). [Le Grand JT de l'Éducation (22/01/2025) – Quel avenir pour les jeunes sur les réseaux sociaux ?](https://www.sqooltv.com/videos/le-grand-jt-de-leducation-22-01-2025-quel-avenir-pour-les-jeunes-sur-les-reseaux-sociaux/) 
+
+* France Inter (2025, January 19). [La Matinale](https://www.radiofrance.fr/franceinter/grille-programmes?date=19-01-2025)
+
+* Le Dauphiné Libéré (2025, January 18).[Réseaux sociaux : « Il y a des raisons d’être préoccupés» par les discours politisés de Musk ou Zuckeberg](https://www.ledauphine.com/encadres/2025/01/17/avec-musk-et-maintenant-zuckerberg-un-tournant-s-opere-dans-les-reseaux-sociaux) 
+
 * Magazine Sciences Humaines (2022, April). [Complotisme, désinformation, rumeurs - Comment lutter ?](https://www.scienceshumaines.com/complotisme-desinformation-rumeurs-comment-lutter_fr_831.htm)
 
 * Les Échos (2022, March 22). La mesure de l'influence des fake news.
@@ -63,6 +78,7 @@
 * Slate (2020, September 23). [De la «private joke» à la fake news, itinéraire d'une bien étrange histoire.](https://korii.slate.fr/et-caetera/nagui-chevaux-course-au-clic-transforme-blague-rumeur-twitter-medias)
 
 * Radio Parleur (2019, November 15). [Contre les fake news : éduquer à l'information, critiquer les médias.](https://radioparleur.net/2019/11/20/fake-news-medias-education/)
+
 
 
 
