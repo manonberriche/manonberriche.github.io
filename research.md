@@ -13,25 +13,29 @@
 
 † denotes equal contribution
 
-* **Berriche**, M., Cointet, J.P., Hacquin, A.S., Altay, S., Mazoyer, B., Ooghe-Tabanou, B., Mercier, H., Cardon, D. [Faker Island. Profiling misinformation sharers on the French Twittersphere using a matching procedure](https://drive.google.com/file/d/1snmaUAMNd0e_FV3jIplJZLqp4tNxEveH/view?usp=sharing).
-  
-* **Berriche, M. †**, Nouri, C. †, Clavel, C., Cointet, J.-P. [Stopping Points in Online Conversations: Annotated Corpus,
-Guidelines and Baseline Models for Detecting Critical Interventions on Social Media](https://drive.google.com/file/d/1_B3TTPYlWylSunn3unvQlDyMlTTZfgsf/view?usp=sharing).
+* **Berriche**, M., Cointet, J.P., Hacquin, A.S., Altay, S., Mazoyer, B., Ooghe-Tabanou, B., Mercier, H., Cardon, D. (Under review)[Faker Island. Profiling misinformation sharers on the French Twittersphere using a matching procedure](https://drive.google.com/file/d/1snmaUAMNd0e_FV3jIplJZLqp4tNxEveH/view?usp=sharing).
+
+Langlais, P.C., Claesson, A., Berriche, M., Mogoutov, A, Cointet J.P. (Under review)[Legibot: A comprehensive theory-driven annotated corpus and SLM for French legislative data](https://drive.google.com/file/d/1lAcBOuPrNLJPuF-RKH-Yi_ocPQpXl46u/view)
 
 * **Berriche**, M. "Tu crois que c'est vrai ?". Fake news, points d'arrêt et autorégulation conversationnelle dans l'espace public numérique.
 
 * **Berriche**, M. Du partage de fake news à son évitement. Intégration dans l'espace politique et prudence énonciative.
 
 
-## Articles in peer-reviewed journals
+## Articles in peer-reviewed journals or in proceedings of peer-reviewed conferences
 
 † denotes equal contribution
+
+* **Berriche, M. †**, Nouri, C. †, Clavel, C., Cointet, J.-P. (Forthcoming)[Stopping Points in Online Conversations: Annotated Corpus,
+Guidelines and Baseline Models for Detecting Critical Interventions on Social Media](https://doi.org/10.48550/arXiv.2511.07405). *LREC*
 
 * Crépel, M., Mazoyer, B., Ooghe-Tabanou, B., Plique, G., Cointet, J. P., Parasie, S., ... & **Berriche**, M. (2025). [Une cartographie web de l'écosystème médiatique français](https://sciencespo.hal.science/hal-05094289v4/document). *Data & Corpus*.
 
 * **Berriche**, M. (2023).[La réception et le partage de (fausses) informations par les adolescents : des pratiques situées](https://lesenjeux.univ-grenoble-alpes.fr/2023/supplement-a/05-la-reception-et-le-partage-de-fausses-informations-par-les-adolescents-des-pratiques-situees/). *Les enjeuxs de l'information et de la communication*.
 
 * Altay, S.,  **Berriche**, M.,  Farkas, J., Heuer, H., & Rathje, H. (2023). [A Survey of Expert Views on Misinformation: Definitions, Determinants, Solutions, and Future of the Field](https://misinforeview.hks.harvard.edu/article/a-survey-of-expert-views-on-misinformation-definitions-determinants-solutions-and-future-of-the-field/). *HKS Misinformation Review*.
+
+* Ramaciotti Morales, P., **Berriche**, M., & Cointet, J.-P. (2023). [The geometry of misinformation: embedding Twitter networks of users who spread fake news in geometrical opinion spaces](https://hal.archives-ouvertes.fr/hal-03725556/document). In International Conference on Web and Social Sciences ICWSM. AAAI.
 
 * Altay, S. †, **Berriche, M. †**, & Acerbi, A. (2023). [Misinformation on Misinformation: Conceptual and Methodological Challenges](https://journals.sagepub.com/doi/full/10.1177/20563051221150412#bibr15-20563051221150412). *Social Media + Society*.
 
@@ -42,10 +46,6 @@ Guidelines and Baseline Models for Detecting Critical Interventions on Social Me
 * **Berriche**, M., & Altay, S. (2020). [Internet Users Engage More With Phatic Posts Than With Health Misinformation On Facebook](https://doi.org/10.1057/s41599-020-0452-1). *Palgrave Communications*, 6(1), 1-9.
 
 * **Berriche**, M. (2019). [From A Social Experiment To A Public Educational Policy: A Long Journey](https://07c585f3-4b08-4437-97a8-39faf6aab3a2.filesusr.com/ugd/a93557_222a9611f8a045bf9d2254176b9b2ac9.pdf). *Sciences Po Review of Public Affairs*, (3), 121-125.
-
-## Articles in proceedings of peer-reviewed conferences
-
-* Ramaciotti Morales, P., **Berriche**, M., & Cointet, J.-P. (2023). [The geometry of misinformation: embedding Twitter networks of users who spread fake news in geometrical opinion spaces](https://hal.archives-ouvertes.fr/hal-03725556/document). In International Conference on Web and Social Sciences ICWSM. AAAI.
 
 
 ## Institutional Report
