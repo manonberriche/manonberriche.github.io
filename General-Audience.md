@@ -58,7 +58,7 @@
 
 * TF1 (2025, August 19). ["C'est un fake ça, non ?" : attention aux fausses informations sur l'allocation de rentrée scolaire versée ce mardi](https://www.tf1info.fr/conso-argent/reportage-video-c-est-un-fake-ca-non-attention-aux-fausses-informations-sur-l-allocation-de-rentree-scolaire-2025-2389442.html) 
 
-* Media Connect (2025, May 21). [Désinformation, malinformation et mésinformation : comment les distinguer ?] (https://mediaconnect.com/desinformation-malinformation-et-mesinformation-comment-les-distinguer) 
+* Media Connect (2025, May 21). [Désinformation, malinformation et mésinformation : comment les distinguer ?](https://mediaconnect.com/desinformation-malinformation-et-mesinformation-comment-les-distinguer) 
 
 * TV5Monde (2025, January 31). [C'est quoi la post-vérité ?](https://information.tv5monde.com/chronique/vrai-dire/cest-quoi-la-post-verite-2761140)
 
@@ -77,6 +77,7 @@
 * Slate (2020, September 23). [De la «private joke» à la fake news, itinéraire d'une bien étrange histoire.](https://korii.slate.fr/et-caetera/nagui-chevaux-course-au-clic-transforme-blague-rumeur-twitter-medias)
 
 * Radio Parleur (2019, November 15). [Contre les fake news : éduquer à l'information, critiquer les médias.](https://radioparleur.net/2019/11/20/fake-news-medias-education/)
+
 
 
 
